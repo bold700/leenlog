@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[40965,["/leenlog/_next/static/chunks/02b~-6vfd91pb.js","/leenlog/_next/static/chunks/0mwu1271r6wnd.js","/leenlog/_next/static/chunks/0t01v.fdcgn2-.js"],"ViewportBoundary"]
+3:I[40965,["/leenlog/_next/static/chunks/02b~-6vfd91pb.js","/leenlog/_next/static/chunks/0mwu1271r6wnd.js","/leenlog/_next/static/chunks/0t01v.fdcgn2-.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[17970,["/leenlog/_next/static/chunks/02b~-6vfd91pb.js","/leenlog/_next/static/chunks/0mwu1271r6wnd.js","/leenlog/_next/static/chunks/0t01v.fdcgn2-.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LeenLog"}],["$","meta","1",{"name":"description","content":"Lichtgewicht uitleenadministratie"}],["$","link","2",{"rel":"icon","href":"/leenlog/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WZUOXr3tw9c_w6t1j5boi"}
