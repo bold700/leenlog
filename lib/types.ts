@@ -9,6 +9,7 @@ export interface Item {
   estimatedValue: number | null
   status: ItemStatus
   createdAt: number
+  ownerId?: string
 }
 
 export interface Person {
@@ -17,6 +18,7 @@ export interface Person {
   phone: string
   email: string
   note: string
+  ownerId?: string
 }
 
 export interface Loan {
@@ -33,6 +35,7 @@ export interface Loan {
   conditionIn?: string // staat bij retour
   terms?: boolean // bruikleen-voorwaarden van toepassing
   confirmedAt?: number | null // wanneer de lener akkoord gaf ("bevestigd op")
+  ownerId?: string
 }
 
 export interface DB {

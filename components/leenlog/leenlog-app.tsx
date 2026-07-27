@@ -5,6 +5,7 @@ import {
   Boxes,
   ClipboardList,
   History,
+  LogOut,
   Package,
   Plus,
   RotateCcw,
@@ -59,6 +60,7 @@ import {
   returnInfo,
 } from "@/lib/leenlog"
 import { useLeenLog } from "./store"
+import { useAuth } from "./auth-provider"
 import { AddLoanSheet } from "./add-loan-sheet"
 import { LoanDetailSheet } from "./loan-detail-sheet"
 import { ItemSheet } from "./item-sheet"
@@ -165,6 +167,7 @@ function AppSidebar({
   onReset: () => void
 }) {
   const { isMobile, setOpenMobile } = useSidebar()
+  const auth = useAuth()
 
   function go(t: Tab) {
     onSelect(t)
@@ -211,6 +214,21 @@ function AppSidebar({
               <span>Voorbeelddata resetten</span>
             </SidebarMenuButton>
           </SidebarMenuItem>
+          {auth.user && (
+            <>
+              <SidebarMenuItem>
+                <div className="text-muted-foreground truncate px-2 py-1 text-xs">
+                  {auth.user.email}
+                </div>
+              </SidebarMenuItem>
+              <SidebarMenuItem>
+                <SidebarMenuButton tooltip="Uitloggen" onClick={() => auth.signOut()}>
+                  <LogOut />
+                  <span>Uitloggen</span>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
+            </>
+          )}
         </SidebarMenu>
       </SidebarFooter>
     </Sidebar>

@@ -1,10 +1,5 @@
-import { LeenLogProvider } from "@/components/leenlog/store"
-import { LeenLogApp } from "@/components/leenlog/leenlog-app"
+import { AppRoot } from "@/components/leenlog/app-root"
 
 export default function Page() {
-  return (
-    <LeenLogProvider>
-      <LeenLogApp />
-    </LeenLogProvider>
-  )
+  return <AppRoot />
 }

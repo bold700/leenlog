@@ -5,7 +5,7 @@ import * as React from "react"
 import type { DB, Item, Loan, Person } from "@/lib/types"
 import { byId, loadDB, resetDB, saveDB, startOfToday, uid } from "@/lib/leenlog"
 
-interface Store {
+export interface Store {
   db: DB
   ready: boolean
   addItem: (data: Pick<Item, "name" | "description" | "estimatedValue">) => Item
@@ -31,7 +31,7 @@ interface Store {
   reset: () => void
 }
 
-const StoreContext = React.createContext<Store | null>(null)
+export const StoreContext = React.createContext<Store | null>(null)
 
 const EMPTY: DB = { items: [], people: [], loans: [] }
 
