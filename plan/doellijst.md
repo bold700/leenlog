@@ -6,6 +6,10 @@ Prioriteitsvolgorde voor een start per 1 oktober:
 3. **Sectie 1** bureaus — doorlooptijd van weken, dus wél week 1–2 starten maar niet op wachten
 
 > Defensie/overheids-cv is het onderscheidend kapitaal: prioriteer Yacht, Circle8, LINKIT, HeadFirst/Striive en Flextender. Vermeld bij rijks-brokers expliciet de Defensie-referentie + screeningsbereidheid (VGB) — dat is schaars.
+>
+> **Check dag 1: is je VGB nog geldig/overdraagbaar?** Een nieuwe screening duurt 6–8+ weken. Zo nee: Defensie-route is een november/december-kanaal; noem bij brokers "screeningservaring" in plaats van directe inzetbaarheid.
+>
+> **Koude-outreach-target (week 2–3): 30 contacten = 20 bureaus (sectie 1) + 10 recruiters (sectie 2), elk met follow-up op dag 5 en dag 12** (templates §3b).
 
 ## 1. Digitale bureaus regio Utrecht/Amsterdam (freelance senior UX/product design)
 

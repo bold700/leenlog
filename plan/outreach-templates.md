@@ -2,6 +2,9 @@
 
 Klaar om te plakken. Vul bij warme berichten altijd het concrete gezamenlijke project in — dat maakt het verschil tussen een template en een echt bericht.
 
+> **Afzenderadres:** stuur vanaf een persoonlijk adres (bv. `kenny@bold700.com`), niet vanaf `support@` — dat oogt als een webshop, niet als een senior freelancer. Richt het alias in (5 min) en vervang het adres in onderstaande templates.
+> **Timing LinkedIn-post §1:** pas publiceren ná het gesprek met je huidige opdrachtgever (week 1, dag 1 in het plan).
+
 ---
 
 ## 1. LinkedIn "beschikbaar per 1 oktober"-post
@@ -103,6 +106,22 @@ support@bold700.com
 
 ---
 
+## 3b. Follow-ups op koude mails (hier komen de meeste gesprekken vandaan)
+
+**Follow-up 1 — dag 5, kort:**
+
+Korte reminder op mijn mail van vorige week — is er bij [bureau] dit najaar behoefte aan freelance senior UX? Zo nee, ook prima om te horen, dan weet ik het.
+
+Groet, Kenny
+
+**Follow-up 2 — dag 12, één case-link, daarna archiveren:**
+
+Laatste berichtje van mijn kant. Ter inspiratie: [link naar relevante case, bv. design system of AI-workflow-case]. Mocht er later dit jaar iets spelen — je hebt mijn gegevens.
+
+Groet, Kenny
+
+---
+
 ## 4. Reactie-template opdracht-posting (broker/platform, ±100 woorden)
 
 Beste [naam],
@@ -111,7 +130,7 @@ Deze opdracht sluit direct aan op mijn werk van de afgelopen jaren: [concreet ra
 
 Wat mij onderscheidt van de meeste UX'ers: ik lever niet alleen ontwerpen, maar bouw ze ook zelf uit tot werkende Next.js-frontends. Dat betekent minder overdracht, snellere validatie en een team dat vaart houdt.
 
-Ik ben per 1 oktober beschikbaar, [X dagen] per week, [remote/on-site regio Utrecht]. Tarief en cv stuur ik direct mee. Ik licht het graag toe in een gesprek.
+Ik ben per 1 oktober beschikbaar, [X dagen] per week, [remote/on-site regio Utrecht]. Cv stuur ik mee; tarief licht ik graag toe in een gesprek (zie tariefscript §7 — geef het anker niet blind weg tenzij het platform het verplicht).
 
 Groet, Kenny Timmer
 
@@ -146,3 +165,21 @@ Vertel wat je leerde van gebruikers van je plugin (en je Penpot MCP-server): wel
 **Openingszin:** "De meeste design systems sterven niet aan slechte componenten, maar aan tokens die niemand snapt."
 
 Praktische post met 3–4 concrete fouten die je bij opdrachtgevers tegenkwam (geanonimiseerd) en hoe je ze oplost — naamgeving, te veel lagen, geen eigenaarschap tussen design en dev. Onderaan één zin: "Per 1 oktober heb ik ruimte voor een nieuwe opdracht — loopt jullie design system vast, stuur me een bericht."
+
+---
+
+## 7. Tariefscript (telefonisch/interview — €85 is de ondergrens en die blijft staan)
+
+**Als de broker/klant zegt "wij zitten op €80 voor UX":**
+
+"€95 is mijn tarief voor senior UX. Het verschil met een pure UX'er à €80 is dat ik ook de frontend lever — jullie besparen een deel van een developer-inzet en alle overdrachtstijd. Reken het na: één designer-die-bouwt à €95 is goedkoper dan een designer à €80 plus developer-uren voor implementatie en afstemming."
+
+**Concessievolgorde (nooit beginnen met tarief):**
+1. Duur ruilen: "Onder de €90 kan bij 6+ maanden commitment."
+2. Volume ruilen: "Bij 4+ dagen per week kan ik naar €88."
+3. Startdatum ruilen: "Per direct starten is €95; kunnen jullie wachten tot november, dan praten we verder."
+4. Pas dán tarief — en nooit onder €85. Onder €85 doe ik alleen opdrachten van 6+ maanden én 4+ dagen/wk.
+
+**Als het platform een tarief verplicht bij de reactie:** vul €95 in bij 3–4 dagen/wk, €90 bij 5 dagen/wk of 6+ maanden.
+
+**Vuistregel:** −€10/u × 130 u/mnd = €1.300/mnd structureel weggegeven. Het probleem bij een dunne pipeline is volume, niet prijs — verbreed dan de scope (UI-heavy en frontend-rollen), verlaag niet het tarief.
