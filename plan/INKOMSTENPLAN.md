@@ -23,7 +23,7 @@ Sterk verkoopbaar:
 
 ## 1. Strategie in één alinea
 
-De markt is krap (opdrachten −15% j/j, licht herstel in 2026) maar beloont precies jouw profiel: AI-skills geven de grootste tariefpremie en "UX'er die zelf bouwt" is schaars. De snelste route naar substantiële omzet is een interim-opdracht (Spoor A) via warm netwerk + brokers + overheidsportals — te beginnen bij de allerwarmste lead: je huidige opdrachtgever. Registraties bij de kernkanalen gebeuren in week 1, omdat DAS-toelating 1–2 weken kost en de aug/sep-publicaties 1-oktober-startdata dragen. Maar reken eerlijk: het basisscenario is **40–50% kans dat er op 1 oktober géén interim-contract ligt**. Daarom is Spoor B (workshops, fixed-price sites) geen vangnet maar een parallel spoor met eigen weektargets, dat uiterlijk 8 september de helft van je acquisitietijd krijgt als Spoor A dan geen eindronde heeft. Spoor C (eigen product) levert vóór december niets op en blijft op de achtergrond. Cashflow is de stille killer: zelfs met een start op 1 oktober komt de eerste betaling pas eind oktober–half november, en eind oktober moet ook de BTW over Q3 betaald — daar plan je nú op (§4b).
+De markt is krap (opdrachten −15% j/j, licht herstel in 2026) maar beloont precies jouw profiel: AI-skills geven de grootste tariefpremie en "UX'er die zelf bouwt" is schaars. De snelste route naar substantiële omzet is een interim-opdracht (Spoor A) via warm netwerk + brokers + overheidsportals — te beginnen bij de allerwarmste lead: je huidige opdrachtgever. Registraties bij de kernkanalen gebeuren in week 1, omdat DAS-toelating 1–2 weken kost en de aug/sep-publicaties 1-oktober-startdata dragen. Maar reken eerlijk: het basisscenario is **40–50% kans dat er op 1 oktober géén interim-contract ligt**. Daarom is Spoor B (workshops, fixed-price sites) geen vangnet maar een parallel spoor met eigen weektargets, dat vanaf 7 september de helft van je acquisitietijd krijgt als Spoor A op de go/no-go van vrijdag 4 september geen eindronde heeft. Spoor C (eigen product) levert vóór december niets op en blijft op de achtergrond. Cashflow is de stille killer: zelfs met een start op 1 oktober komt de eerste betaling pas eind oktober–half november, en eind oktober moet ook de BTW over Q3 betaald — daar plan je nú op (§4b).
 
 ## 2. De drie sporen
 
@@ -61,7 +61,7 @@ Volgorde = kortste route naar factuur eerst:
 5. **MVP-in-2-weken sprint (tweede product, niet de basis):** **€7.500–15.000 vast** (Next.js + Firebase), betaalde discovery €1.500 als instap. Salescyclus 2–6 weken.
 6. **Design/dev-abonnement (Designjoy-model) — pas later:** €1.500–2.500/mnd haalbaar, maar vraagt audience. Converteer eerst terugkerende klanten.
 
-**Timing-regel:** oktober-omzet uit Spoor B moet uiterlijk ~10 sep verkócht worden (salescyclus 1–2 weken + levering). "€6.500 in oktober" geldt alleen als de verkoop vóór 25 sep rond is.
+**Timing-regel:** oktober-omzet uit Spoor B moet uiterlijk ~10 sep gepitcht zijn (salescyclus 1–2 weken) en vóór 25 sep verkócht — anders is de oktober-agenda niet meer te vullen.
 
 ### Spoor C — Eigen producten (bewust op de achtergrond)
 
@@ -70,7 +70,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 
 ## 3. 30-dagenplan (week voor week, gedimensioneerd op ±10 u/wk naast je opdracht)
 
-### Week 1 — 18–24 aug: de warmste leads + kernregistraties (±10 u)
+### Week 1 — ma 17–zo 23 aug: de warmste leads + kernregistraties (±10 u; dag 1 = di 18 aug)
 
 - [ ] **Dag 1 — gesprek huidige opdrachtgever (jouw warmste lead):** (a) is verlenging of een kleinere vervolgopdracht (2–3 dgn/wk) bespreekbaar? (b) zijn er andere teams/afdelingen met een vraag? (c) mag ik jullie nu al als telefonische referentie opgeven? (d) melden dat je publiek gaat communiceren dat je per 1 okt beschikbaar bent. **De LinkedIn-post gaat pas live ná dit gesprek.**
 - [ ] **Dag 1 — VGB-check** (zie Spoor A) + mailadres: vervang `support@bold700.com` door `kenny@bold700.com` als afzender (senior positionering, 5 min werk).
@@ -82,7 +82,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 - [ ] **Avondblok 1 van 2 — portfolio:** 3 cases à 1 pagina: AMP design system (met metrics), AI-workflow-case met live link, plugin/MCP als product-case. Defensie: geanonimiseerde procescase (probleem→aanpak→resultaat, geen screens); check bij oud-contactpersoon wat genoemd mag worden.
 - [ ] Weekend (30 min): pipeline-tracker invullen (`pipeline.md`) + 10-min verificatie Blue Legion/Maister/TalentIn — anders schrappen.
 
-### Week 2 — 25–31 aug: registraties afmaken + volume opbouwen (±10 u)
+### Week 2 — 24–30 aug: registraties afmaken + volume opbouwen (±10 u)
 
 - [ ] **Registraties afronden:** Harvey Nash (Maarssen — bel ze), Magnit, Circle8, LINKIT, Freep, UX People, Aquent, YER, 2–3 overheids-agencies (Talent123, Get There, Quest4), Freelance.nl-alert, Malt-profiel.
 - [ ] **Warm netwerk: rest van de 40 namen** aanschrijven + opvolgen wie niet reageerde (respons blijft vakantie-traag; niet uit paniek verdubbelen).
@@ -91,16 +91,17 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 - [ ] **Avondblok 2 van 2 — portfolio afmaken** + workshop-onepager (aanbod, pilotprijs, 3 projectcases).
 - [ ] LinkedIn-contentpost week 2 (§6).
 
-### Week 3 — 1–7 sep: gesprekken voeren + GO/NO-GO (±10 u)
+### Week 3 — 31 aug–6 sep: gesprekken voeren + GO/NO-GO (±10 u)
 
 - [ ] Koude mails 16–30 versturen + **follow-up-ronde op week-2-mails** (templates §3b: dag-5- en dag-12-opvolging — hier komt het grootste deel van de gesprekken vandaan).
 - [ ] Opdracht-reacties: 10+ deze week. Interviews voorbereiden: 3 cases paraat (Defensie = complexe stakeholders; AMP = design system; recent = AI-workflow).
-- [ ] Warme gesprekken voeren — **doel: 10 gevoerd vóór 7 sep.** Elke afspraak eindigt met: "wie moet ik nog meer spreken?"
+- [ ] Warme gesprekken voeren — **doel: 10 gevoerd vóór 6 sep.** Elke afspraak eindigt met: "wie moet ik nog meer spreken?"
 - [ ] Workshop-pitches: 10 warme partijen (oud-opdrachtgevers, bureaus met achterblijvende AI-adoptie, accountants-/branchekantoren). Pilotprijs inzetten.
-- [ ] **Vrijdag 5 sep — GO/NO-GO (hard beslismoment):** ligt er voor Spoor A geen mondelinge toezegging of eindronde? → vanaf maandag 8 sep gaat 50% van de acquisitietijd naar Spoor B: doel **2 workshops + 1 site verkocht vóór 25 sep**, levering in oktober. (Meet op geplande + gevoerde serieuze gesprekken; definitie in §4.)
+- [ ] Toptal-vetting starten — alleen als de pipeline op schema ligt (levert pas november+ op).
+- [ ] **Vrijdag 4 sep — GO/NO-GO (hard beslismoment):** ligt er voor Spoor A geen mondelinge toezegging of eindronde? → vanaf maandag 7 sep gaat 50% van de acquisitietijd naar Spoor B: doel **2 workshops + 1 site verkocht vóór 25 sep**, levering in oktober. (Meet op geplande + gevoerde serieuze gesprekken; definitie in §4.)
 - [ ] LinkedIn-contentpost week 3.
 
-### Week 4 — 8–14 sep: closen voor 1 oktober (±10 u)
+### Week 4 — 7–13 sep: closen voor 1 oktober (±10 u)
 
 - [ ] Alle warme opdracht-leads doordrukken: vraag expliciet naar besluitdatum, bied startdatum 1 okt (of overlap: avonden/laatste sept-week voor overdracht).
 - [ ] **Tekencriteria (geen wanhoopsdeals):** ≥€85/u (of gemotiveerde uitzondering per tariefscript), ≥3 maanden, ≥24 u/wk, betaaltermijn ≤30 dgn of broker met snelle uitbetaling, DBA-constructie helder. Voldoet geen optie? → Spoor B opschalen, niet de slechte deal tekenen.
@@ -109,10 +110,10 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 - [ ] Spoor B: workshops/sites offreren en in oktober-agenda plannen.
 - [ ] LinkedIn-contentpost week 4 + tweede beschikbaarheidspost ("nog 2 weken").
 
-### 15–30 sep: contract rond + oktober vullen
+### 14–30 sep: contract rond + oktober vullen
 
 - [ ] Contract/inkooporder getekend vóór 25 sep (modelovereenkomst-hygiëne, zie DBA-blok).
-- [ ] Geen opdracht rond? Draaiboek B draait dan al sinds 8 sep (go/no-go). Aanvullend: (1) Freep activeren (payroll = salaris 31 okt gegarandeerd), (2) Upwork-profiel live voor overbrugging, (3) Toptal-vetting doorzetten voor november+.
+- [ ] Geen opdracht rond? Draaiboek B draait dan al sinds 7 sep (go/no-go). Aanvullend: (1) Freep activeren (payroll = salaris 31 okt gegarandeerd), (2) Upwork-profiel live voor overbrugging, (3) Toptal-vetting doorzetten voor november+.
 - [ ] Huidige opdracht netjes afronden; testimonial/LinkedIn-recommendation + "mag ik jullie als referentie gebruiken en weten jullie een volgende plek?"
 
 ### Vanaf 1 okt
@@ -139,13 +140,13 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 | → Serieuze interviews | 5–8 |
 | → Aanbiedingen | **0–2** |
 
-**Reken eerlijk: 40–50% kans dat er op 1 okt géén interim-contract ligt.** Daarom lopen Spoor A en B parallel en is 5 sep een hard beslismoment — geen hoop-strategie.
+**Reken eerlijk: 40–50% kans dat er op 1 okt géén interim-contract ligt.** Daarom lopen Spoor A en B parallel en is vrijdag 4 sep een hard beslismoment — geen hoop-strategie.
 
 **Omzetscenario's oktober–november:**
 
 - **Best case:** interim 32 u/wk à €90 ≈ **€12.500/mnd** + Spoor B erbovenop.
 - **Realistisch:** 24–32 u/wk à €85–95 ≈ €8.500–11.500/mnd, startend ergens in oktober.
-- **Nul-branch (geen contract op 1 okt):** 2 workshops (€3.000–4.000, deels pilotprijs) + 1 fixed-price site (€2.500) ≈ €5.500–6.500 in oktober — alléén als verkocht vóór 25 sep; Freep-payroll als bodem (€3.000 + tariefopslag); Upwork als gap-filler. Interim-start schuift naar 1 nov (DAS-publicaties met nov-startdata lopen door).
+- **Nul-branch (geen contract op 1 okt):** 2 workshops (pilot €950–1.250 + vol dagdeel €1.750–2.500 = €2.700–3.750) + 1 fixed-price site (€2.500) ≈ €5.200–6.250 in oktober — alléén als verkocht vóór 25 sep; Freep-payroll als bodem (€3.000 + tariefopslag); Upwork als gap-filler. Interim-start schuift naar 1 nov (DAS-publicaties met nov-startdata lopen door).
 
 ### 4b. Financiële bodem (invullen vóór 20 aug — zonder deze getallen is elke beslisregel blind)
 

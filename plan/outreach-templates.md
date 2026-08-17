@@ -2,7 +2,7 @@
 
 Klaar om te plakken. Vul bij warme berichten altijd het concrete gezamenlijke project in — dat maakt het verschil tussen een template en een echt bericht.
 
-> **Afzenderadres:** stuur vanaf een persoonlijk adres (bv. `kenny@bold700.com`), niet vanaf `support@` — dat oogt als een webshop, niet als een senior freelancer. Richt het alias in (5 min) en vervang het adres in onderstaande templates.
+> **Afzenderadres:** de templates gebruiken `kenny@bold700.com` — richt dat alias eerst in (5 min, dag 1). Mailen vanaf `support@` oogt als een webshop, niet als een senior freelancer.
 > **Timing LinkedIn-post §1:** pas publiceren ná het gesprek met je huidige opdrachtgever (week 1, dag 1 in het plan).
 
 ---
@@ -36,7 +36,7 @@ Wat ik doe:
 
 Interim, project of deelopdracht — remote of on-site in de regio Utrecht.
 
-Zoek je een senior UX'er die ook bouwt, of ken je iemand die er een zoekt? DM me of mail naar support@bold700.com.
+Zoek je een senior UX'er die ook bouwt, of ken je iemand die er een zoekt? DM me of mail naar kenny@bold700.com.
 
 ---
 
@@ -86,7 +86,7 @@ Zetten jullie weleens freelance seniors in bij klanten? Dan stuur ik graag mijn 
 
 Groet,
 Kenny Timmer — Bold700
-support@bold700.com
+kenny@bold700.com
 
 ### Variant B — AI-workflows-focus
 
@@ -102,7 +102,7 @@ Kwartiertje bellen om te zien of het past?
 
 Groet,
 Kenny Timmer — Bold700
-support@bold700.com
+kenny@bold700.com
 
 ---
 
@@ -146,21 +146,21 @@ Groet, Kenny Timmer
 
 ---
 
-## 6. LinkedIn-content-ideeën week 1–4
+## 6. LinkedIn-content-ideeën week 2–4 (week 1 heeft alleen de beschikbaarheidspost §1)
 
-### Week 1 — "Design handoff is dood (bij mij dan)"
+### Week 2 — "Design handoff is dood (bij mij dan)"
 
 **Openingszin:** "Ik heb dit jaar geen enkele design handoff meer gedaan. Niet omdat ik lui ben, maar omdat ik de frontend gewoon zelf bouw."
 
 Casus-post: laat een recent project zien waarin je van Figma-ontwerp direct naar werkende Next.js/shadcn-frontend ging met Claude Code. Concreet: wat de klant kreeg, hoeveel sneller het ging, wat er wegviel (redlines, specs, discussies over spacing). Sluit af met de vraag hoe anderen dit aanpakken — goed voor comments.
 
-### Week 2 — "Wat 1.000+ designers me leerden over tooling bouwen"
+### Week 3 — "Wat 1.000+ designers me leerden over tooling bouwen"
 
 **Openingszin:** "Toen ik mijn Figma-plugin bouwde, dacht ik dat het een weekendproject zou blijven. Inmiddels gebruiken meer dan duizend designers hem."
 
 Vertel wat je leerde van gebruikers van je plugin (en je Penpot MCP-server): welk probleem het oplost, welke feedback je verraste, wat het je leerde over waar designworkflows echt vastlopen. Positioneert je als iemand die tools bouwt, niet alleen gebruikt.
 
-### Week 3 — "Design tokens: waar het in de praktijk misgaat"
+### Week 4 — "Design tokens: waar het in de praktijk misgaat"
 
 **Openingszin:** "De meeste design systems sterven niet aan slechte componenten, maar aan tokens die niemand snapt."
 
@@ -178,7 +178,7 @@ Praktische post met 3–4 concrete fouten die je bij opdrachtgevers tegenkwam (g
 1. Duur ruilen: "Onder de €90 kan bij 6+ maanden commitment."
 2. Volume ruilen: "Bij 4+ dagen per week kan ik naar €88."
 3. Startdatum ruilen: "Per direct starten is €95; kunnen jullie wachten tot november, dan praten we verder."
-4. Pas dán tarief — en nooit onder €85. Onder €85 doe ik alleen opdrachten van 6+ maanden én 4+ dagen/wk.
+4. Pas dán tarief — en nooit onder €85. Dat is óók bij 6+ maanden of 4+ dagen per week de bodem; ruil daar iets anders voor terug (startdatum, opzegtermijn), niet de prijs.
 
 **Als het platform een tarief verplicht bij de reactie:** vul €95 in bij 3–4 dagen/wk, €90 bij 5 dagen/wk of 6+ maanden.
 

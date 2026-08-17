@@ -53,6 +53,8 @@ Prioriteitsvolgorde voor een start per 1 oktober:
 | 9 | Michael Page Interim | Recruitment/interim | Digital & design interim desk NL | michaelpage.nl | Cv + alert "interim UX/product design" |
 | 10 | Hays NL | Recruitment/contracting | Technology contracting, ook freelance | hays.nl | Registreren als contractor |
 | 11 | Salt Recruitment (A'dam) | Digital recruitment | Digital/creative/tech niche | welovesalt.com | Cv insturen NL-team |
+| 12 | Magnit (ex-Brainnet) | MSP/broker corporates + overheid | Veel eindklanten (o.a. Gemeente Utrecht, Rijkswaterstaat met Circle8) alleen via hen bereikbaar | magnitglobal.com/nl | Registreren via Magnit Source (week 2) |
+| 13 | Overheids-agencies: Talent123, Get There, Quest4, Caesar Overheid, Bij Oranje | Intermediairs die zzp'ers in DAS'en pitchen | Zij doen het DAS-papierwerk en reageren namens jou; snelle route naar overheid | talent123.nl · getthere.nl · quest4.nl · caesaroverheid.nl · bijoranje.nl | Week 2: bij 2–3 aanmelden |
 | — | Blue Legion / Maister / TalentIn | ⚠️ Niet geverifieerd (aug 2026) | Geen betrouwbare treffers | — | 10 min check (KvK/LinkedIn), anders schrappen |
 
 ## 3. Platforms/marktplaatsen
@@ -65,7 +67,7 @@ Prioriteitsvolgorde voor een start per 1 oktober:
 | 4 | LINKIT | IT-broker/platform | Zelfde ministeries-raamovereenkomst | linkit.nl | Registreren in talentpool |
 | 5 | Malt NL | Marketplace | Actieve NL UX-categorie; inbound | malt.nl | Profiel op "Senior UX / design systems / AI-assisted"; beschikbaar per 1 okt |
 | 6 | Freelance.nl | NL opdrachtenbord | Dagelijks UX- en overheidsopdrachten | freelance.nl | Account + dagelijkse alert |
-| 7 | Toptal | Global vetted network | Hoog tarief; screening 2–5 wkn → november-kanaal | toptal.com | Screening nú starten |
+| 7 | Toptal | Global vetted network | Hoog tarief; screening 2–5 wkn → november-kanaal | toptal.com | Screening in week 3 starten, alleen als pipeline op schema ligt |
 | 8 | Contra | Commission-free platform | AI-era design/dev hybrides, internationaal remote | contra.com | Portfolio met AI-workflow cases |
 | 9 | Upwork | Marketplace | Snel klein werk (dagen), lagere tarieven | upwork.com | Profiel als gap-filler |
 
