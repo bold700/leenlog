@@ -1,4 +1,4 @@
-# Werkbon-platform Marc Hezel — concept (18 aug 2026)
+# Urenregistratie-platform Marc Hezel — concept (18 aug 2026)
 
 Doel: het uitzendbureau van Marc van Excel/mail/WhatsApp naar één web-app: uren binnenkrijgen, accorderen, werkbon en factuur eruit. Marcs eigen woorden: "ik wil de uren die binnenkomen kunnen accorderen en een factuur sturen naar de klant, eventueel met werkbon."
 
@@ -61,5 +61,5 @@ Multi-tenant: meerdere uitzendbureaus op één platform, white-label, €99–24
 
 - **Material 3** als component-basis (Figma M3 design kit), NL-taal
 - Vormtaal overnemen van de Van As personal training-app (Figma-link nog nodig van Kenny)
-- Werktitel: **"Bonnen"** (werktitel, Marc mag kiezen)
+- Naam: nog open (Marc mag kiezen); het is een urenregistratie-app, geen "werkbon-app"
 - Figma-opzet: pagina 1 flows, pagina 2 web-schermen, pagina 3 mobiel
