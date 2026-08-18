@@ -39,12 +39,23 @@ Doel: het uitzendbureau van Marc van Excel/mail/WhatsApp naar één web-app: ure
 
 Bureau → Klanten → Plaatsingen (uitzendkracht × klant × uurtarief × periode) → Urenregels (datum, uren, status: ingediend/akkoord/afgewezen) → Werkbonnen (bundel urenregels, status) → Facturen (bundel werkbonnen, status). Gebruikers: admin / uitzendkracht.
 
-## MVP v1 (2–3 weken bouw, okt) vs later
+## Fasering (voorstel richting Marc)
 
-**v1:** flows 1 t/m 4 met één bureau, handmatige klant/kracht-invoer, werkbon- en factuur-PDF, mail met magic link, één boekhoudkoppeling (het pakket dat Marc al gebruikt) óf alleen PDF + handmatige boeking.
-**Later:** CAO-toeslagen/ORT, automatische herinneringen, betalingen (Mollie), meerdere admins, rapportages, export accountant.
+### Fase 1 — MVP (bouw okt, 2–3 weken) · vast €4.000–6.000 + €99/mnd beheer
+Flows 1 t/m 4 voor één bureau: uren indienen (mobiel), accorderen, werkbon-PDF met magic-link-akkoord, factuur-PDF; handmatige klant/kracht-invoer; één boekhoudkoppeling (Marcs pakket) óf PDF-only. 50% aanbetaling vooraf.
 
-**Prijskader (uit plan):** v1 vast €4.000–6.000 + €99/mnd beheer; 50% aanbetaling.
+### Fase 2 — Professionaliseren (Q4 2026 – Q1 2027) · richtprijs €3.500–5.000
+CAO-toeslagen/ORT en tariefstaffels; automatische herinneringen en aanmaningen; betaalstatus via Mollie-koppeling; rapportages (marge per klant en per kracht, weekomzet); meerdere admins en rollen; bulk-import van krachten/plaatsingen; export voor de accountant.
+
+### Fase 3 — SaaS (2027) · abonnementsmodel
+Multi-tenant: meerdere uitzendbureaus op één platform, white-label, €99–249/mnd per bureau; koppelingenbibliotheek (meerdere boekhoudpakketten), planning-/roostermodule, app-store-loze PWA. Marcs bureau wordt launching customer (levenslang gereduceerd tarief) — zie rechten.
+
+## Rechten & eigendom (harde voorwaarde in de offerte)
+
+- **Alle IP, broncode en ontwerpen blijven eigendom van Bold700 B.V.** — geen werk-voor-derden-overdracht.
+- Marc krijgt een **niet-exclusieve, eeuwigdurende gebruikslicentie** voor zijn eigen bureau, inbegrepen in de Fase 1-prijs; beheer en hosting via de maandfee.
+- Bold700 mag het product doorontwikkelen en aan derden aanbieden (Fase 3); Marcs data blijven uiteraard van Marc.
+- Dit staat expliciet in de offerte/opdrachtbevestiging vóór de bouw start.
 
 ## Design
 
