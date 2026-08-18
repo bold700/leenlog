@@ -49,6 +49,12 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 |---|---|---|---|---|---|
 | 18 aug | Marc Hezel (uitzendbureau, warm/vriend) | Maatwerk-app: uren accorderen → werkbon → factuur + koppeling facturatiepakket. Basis: bestaand uren/factuur-prototype (al gedemo'd via WhatsApp) | interesse, maar Marc heeft weinig focus — Kenny wacht op antwoord welk facturatiepakket hij gebruikt | richtprijs €4.000–6.000 vast + €99/mnd beheer; 50% aanbetaling | Deze week: 30 min bellen, scope op 1 A4, pakket-vraag beantwoorden. Verkoop in sep, bouw in okt. Geen gratis "ombouwen" |
 
+## Spoor C — ventures (geen omzet binnen window, max paar uur/wk)
+
+| Datum | Wat | Met wie | Status | Kans voor Kenny | Regels |
+|---|---|---|---|---|---|
+| 18 aug | Eigen drank (elektrolyten; creatine alleen als sachet, instabiel in blik) | Greg (Taste of USA, distributie VS-producten; contact via Simone) | verkennend; açaí-samples 19 aug; onderzoek gedaan (RTD-analyse) | merk, verpakking, webshop, content = betaald werk of aandeel | Rol + vergoeding vroeg vastleggen (fee/equity/mix); max paar uur/wk tot interim-opdracht getekend is |
+
 ## Registraties — week 1 (kern, hoogste dekking)
 
 - [ ] Striive (+ tariefbenchmark + zoekagenten)
