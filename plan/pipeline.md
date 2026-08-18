@@ -13,16 +13,21 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 | 38 (14–20 sep) | | | | | Contract vóór 25 sep, anders draaiboek B |
 | 39 (21–27 sep) | | | | | Overdracht + testimonial huidige klant |
 
+## Context (18 aug)
+
+- **Huidige opdracht: Ministerie van Defensie, via broker Caesar** (t/m 30 sep). VGB is dus actueel: sterk verkoopargument bij overheidsaanvragen. Verlengingsvraag loopt via Caesar, niet rechtstreeks.
+- **Freelance.nl: 5 reacties geplaatst, nog geen respons.** Blijven aanvullen; respons op platformreacties komt vaak pas na sluitingsdatum.
+
 ## Leads (Spoor A — opdrachten)
 
 | Datum | Naam / organisatie | Kanaal | Status¹ | Tarief | Startdatum | Volgende actie + datum |
 |---|---|---|---|---|---|---|
-| 17 aug | **Kadaster — Senior UX Designer, Apeldoorn** (t/m 28-2-2027 + optie 6 mnd, 36 u/wk, verloning) | Peoples Republic (Fayline Rijshouwer) | ⚠️ 18 aug door Kenny afgemeld o.b.v. aanname (holding vs verloning) — **heropening loopt** | €82,50 lag er | 14-9-2026 | Nieuw concept in Gmail (heropening + constructievragen) verzenden + accountant Repko bellen. **Sluiting: wo 26 aug 08:00** |
+| 17 aug | Kadaster — Senior UX Designer, Apeldoorn (verloning) | Peoples Republic (Fayline Rijshouwer) | ❌ definitief afgewezen 18 aug: verloning past niet (besluit Kenny) | €82,50 lag er | — | Optioneel concept staat klaar: vraag of zzp/detachering kan; anders verwijderen |
 | 29 jul | ICTU — UX-Expert, Den Haag/hybride, 25 mnd, 36-40 u | Hero (Queenten Leonora) | voorgesteld, wacht op nieuws | open; concept vraagt €95 | najaar | Concept in Gmail verzenden (status + tarief) |
 | 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | ❌ afgewezen na gesprek 14 aug ("niet enthousiast over UI maken") | — | — | Optioneel: houd-me-warm-concept versturen; relatie Hero loopt door via Queenten |
 | 6 aug | UX-expert (overheid) | OverheidZZP | voorgesteld op €100/u (7 aug) | €100 | — | Concept in Gmail verzenden (gespreksdatum?) |
 | 20 jul | UX Designer/Researcher, Utrecht, schaal 11 | Caesar (Lisa van Meijeren / Merel Kok) | ❌ zelfde opdracht als Hero/Max-route; via Hero afgewezen 14 aug | — | — | Concept herschreven: belafspraak over Caesars oktober-pijplijn (Caesar = huidige broker, blijft toplead) |
-| 5 aug | UX-expert | Greenpepper (Lotte Hilbers) | cv + antwoorden gestuurd 5 aug, stil | — | — | Concept in Gmail verzenden (status) |
+| 5 aug | UX-expert | Greenpepper (Lotte op vakantie; **Niek** pakt op) | 🔥 **warmste lead**: Niek komt vandaag (18 aug) terug over evt. gesprek | — | — | Wachten tot eind van de dag; geen terugkoppeling vóór 16:00 → Niek bellen. Lotte-concept NIET versturen (achterhaald door Niek) |
 | 14 aug | Expert Network (AI-freelancers) | The Talent Institute (Charlotte) | gepitcht, geen reactie | — | — | Follow-up dag 5-regel: rond 19-20 aug |
 | 10 aug | Senior UX allrounder | ink.team (Brina, via Anna Noyons) | gepitcht 10 aug | — | — | Follow-up rond 19-20 aug |
 

@@ -43,7 +43,7 @@ De markt is krap (opdrachten −15% j/j, licht herstel in 2026) maar beloont pre
 | Upwork | dagen–2 weken | wekelijks + 5 dgn | Alleen gap-filler; tarieven lager |
 | Toptal / Malt | te traag voor 1 okt | — | Toptal-vetting pas week 3, en alleen als pipeline op schema ligt |
 
-**VGB-check (dag 1, 5 minuten):** is je Defensie-screening (VGB) nog geldig/overdraagbaar? Zo ja: schaars pluspunt, expliciet noemen bij rijks-brokers. Zo nee: nieuwe screening duurt 6–8+ weken → Defensie-route is een november/december-kanaal; noem bij brokers "screeningservaring" in plaats van directe inzetbaarheid.
+**VGB: actueel** — de huidige opdracht ís bij Defensie (via broker Caesar), dus de screening is geldig. Dit is een schaars pluspunt: expliciet noemen bij elke rijks-broker en in elke overheidsreactie ("direct inzetbaar op gescreende omgevingen").
 
 **Wet DBA — bepaal je verhaal vóór het eerste gesprek.** Handhaving loopt sinds 2025; zachte landing eindigt 1-1-2027 en opdrachtgevers zetten dít najaar hun 2027-beleid. Steeds meer klussen zijn "geen zzp, alleen detachering". Jouw antwoord: (a) ondernemersprofiel op orde — meerdere klanten (workshops! plugin!), eigen tooling, resultaatafspraken, contracten ≤12 mnd (geldt ook bij verlenging huidige opdracht: totaal >12 mnd → constructie herbeoordelen); (b) tarief €85–95/u zit ver boven het rechtsvermoeden-drempeluurloon (±€39) dat per 2027 komt — noem dat actief; (c) constructie-beleid (besluit 18 aug): **zzp via eigen BV is de standaard; detachering alleen als de netto-marge klopt; verloning/payroll doen we niet.** Eist een klant verloning, dan laten we die lopen en vragen we de broker ons te onthouden voor zzp-aanvragen.
 
@@ -72,7 +72,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 
 ### Week 1 — ma 17–zo 23 aug: de warmste leads + kernregistraties (±10 u; dag 1 = di 18 aug)
 
-- [ ] **Dag 1 — gesprek huidige opdrachtgever (jouw warmste lead):** (a) is verlenging of een kleinere vervolgopdracht (2–3 dgn/wk) bespreekbaar? (b) zijn er andere teams/afdelingen met een vraag? (c) mag ik jullie nu al als telefonische referentie opgeven? (d) melden dat je publiek gaat communiceren dat je per 1 okt beschikbaar bent. **De LinkedIn-post gaat pas live ná dit gesprek.**
+- [ ] **Dag 1 — verlengingsgesprek Defensie, via twee lijnen:** (1) bij Caesar (belafspraak, concept staat klaar): is verlenging of een andere aanvraag bij Defensie/rijk bespreekbaar, en wat zit er verder in hun oktober-pijplijn? (2) bij je Defensie-team zelf: informeer je leidinggevende/PO dat je per 1 okt beschikbaar komt, vraag naar interne vervolgvraag en of je ze als referentie mag opgeven. **De LinkedIn-post gaat pas live ná deze gesprekken.**
 - [ ] **Dag 1 — VGB-check** (zie Spoor A) + mailadres: vervang `support@bold700.com` door `kenny.timmer@bold700.com` als afzender (senior positionering, 5 min werk).
 - [ ] **Dag 1–3 — warm netwerk, eerste 15 namen** (oud-opdrachtgevers, oud-collega's: Defensie-keten, AMP, FrieslandCampina, Tinqwise). Templates: `outreach-templates.md` §2. Verwacht trage respons (vakantie) — doel is zenden, gesprekken volgen in week 2–4.
 - [ ] **Dag 1 — LinkedIn-headline om:** "Senior UX designer die ook bouwt — design systems, AI-workflows, Next.js. Beschikbaar per 1 oktober." + "Open to work" (alleen recruiters).
