@@ -21,7 +21,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 | 29 jul | ICTU — UX-Expert, Den Haag/hybride, 25 mnd, 36-40 u | Hero (Queenten Leonora) | voorgesteld, wacht op nieuws | open; concept vraagt €95 | najaar | Concept in Gmail verzenden (status + tarief) |
 | 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | ❌ afgewezen na gesprek 14 aug ("niet enthousiast over UI maken") | — | — | Optioneel: houd-me-warm-concept versturen; relatie Hero loopt door via Queenten |
 | 6 aug | UX-expert (overheid) | OverheidZZP | voorgesteld op €100/u (7 aug) | €100 | — | Concept in Gmail verzenden (gespreksdatum?) |
-| 20 jul | UX Designer/Researcher, Utrecht, schaal 11 | Caesar (Lisa van Meijeren / Merel Kok) | aangemeld eind jul, status onbekend | — | — | Concept in Gmail verzenden + belafspraak over oktober-pijplijn (Caesar = huidige broker!) |
+| 20 jul | UX Designer/Researcher, Utrecht, schaal 11 | Caesar (Lisa van Meijeren / Merel Kok) | ❌ zelfde opdracht als Hero/Max-route; via Hero afgewezen 14 aug | — | — | Concept herschreven: belafspraak over Caesars oktober-pijplijn (Caesar = huidige broker, blijft toplead) |
 | 5 aug | UX-expert | Greenpepper (Lotte Hilbers) | cv + antwoorden gestuurd 5 aug, stil | — | — | Concept in Gmail verzenden (status) |
 | 14 aug | Expert Network (AI-freelancers) | The Talent Institute (Charlotte) | gepitcht, geen reactie | — | — | Follow-up dag 5-regel: rond 19-20 aug |
 | 10 aug | Senior UX allrounder | ink.team (Brina, via Anna Noyons) | gepitcht 10 aug | — | — | Follow-up rond 19-20 aug |
