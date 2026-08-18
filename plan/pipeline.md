@@ -32,7 +32,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 
 | Datum | Naam / organisatie | Kanaal | Status¹ | Tarief | Startdatum | Volgende actie + datum |
 |---|---|---|---|---|---|---|
-| 17 aug | Kadaster — Senior UX Designer, Apeldoorn (verloning) | Peoples Republic (Fayline Rijshouwer) | ❌ definitief afgewezen 18 aug: verloning past niet (besluit Kenny) | €82,50 lag er | — | Optioneel concept staat klaar: vraag of zzp/detachering kan; anders verwijderen |
+| 17 aug | Kadaster — Senior UX Designer, Apeldoorn (verloning) | Peoples Republic (Fayline Rijshouwer) | Verloning afgewezen; Kenny heeft zelf gemaild dat hij bij een zzp-mogelijkheid aangeboden wil worden | €82,50 lag er | — | Geen reactie vóór do 20 aug → kort bellen (sluiting 26 aug); daarna sluiten |
 | 29 jul | ICTU — UX-Expert, Den Haag/hybride, 25 mnd, 36-40 u | Hero (Queenten Leonora) | voorgesteld, wacht op nieuws | open; concept vraagt €95 | najaar | Concept in Gmail verzenden (status + tarief) |
 | 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | ❌ afgewezen na gesprek 14 aug ("niet enthousiast over UI maken") | — | — | Optioneel: houd-me-warm-concept versturen; relatie Hero loopt door via Queenten |
 | 6 aug | UX-expert (overheid) | OverheidZZP | voorgesteld op €100/u (7 aug) | €100 | — | Concept in Gmail verzenden (gespreksdatum?) |
