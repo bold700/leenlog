@@ -73,7 +73,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 ### Week 1 — ma 17–zo 23 aug: de warmste leads + kernregistraties (±10 u; dag 1 = di 18 aug)
 
 - [ ] **Dag 1 — gesprek huidige opdrachtgever (jouw warmste lead):** (a) is verlenging of een kleinere vervolgopdracht (2–3 dgn/wk) bespreekbaar? (b) zijn er andere teams/afdelingen met een vraag? (c) mag ik jullie nu al als telefonische referentie opgeven? (d) melden dat je publiek gaat communiceren dat je per 1 okt beschikbaar bent. **De LinkedIn-post gaat pas live ná dit gesprek.**
-- [ ] **Dag 1 — VGB-check** (zie Spoor A) + mailadres: vervang `support@bold700.com` door `kenny@bold700.com` als afzender (senior positionering, 5 min werk).
+- [ ] **Dag 1 — VGB-check** (zie Spoor A) + mailadres: vervang `support@bold700.com` door `kenny.timmer@bold700.com` als afzender (senior positionering, 5 min werk).
 - [ ] **Dag 1–3 — warm netwerk, eerste 15 namen** (oud-opdrachtgevers, oud-collega's: Defensie-keten, AMP, FrieslandCampina, Tinqwise). Templates: `outreach-templates.md` §2. Verwacht trage respons (vakantie) — doel is zenden, gesprekken volgen in week 2–4.
 - [ ] **Dag 1 — LinkedIn-headline om:** "Senior UX designer die ook bouwt — design systems, AI-workflows, Next.js. Beschikbaar per 1 oktober." + "Open to work" (alleen recruiters).
 - [ ] **Dag 2–3 — referenties NU regelen:** bel 3 oud-opdrachtgevers: "mag ik je deze maand als telefonische referentie opgeven?" + vraag 2 LinkedIn-recommendations.

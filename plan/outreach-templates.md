@@ -2,7 +2,7 @@
 
 Klaar om te plakken. Vul bij warme berichten altijd het concrete gezamenlijke project in — dat maakt het verschil tussen een template en een echt bericht.
 
-> **Afzenderadres:** de templates gebruiken `kenny@bold700.com` — richt dat alias eerst in (5 min, dag 1). Mailen vanaf `support@` oogt als een webshop, niet als een senior freelancer.
+> **Afzenderadres:** de templates gebruiken `kenny.timmer@bold700.com` — richt dat alias eerst in (5 min, dag 1). Mailen vanaf `support@` oogt als een webshop, niet als een senior freelancer.
 > **Timing LinkedIn-post §1:** pas publiceren ná het gesprek met je huidige opdrachtgever (week 1, dag 1 in het plan).
 
 ---
@@ -36,7 +36,7 @@ Wat ik doe:
 
 Interim, project of deelopdracht — remote of on-site in de regio Utrecht.
 
-Zoek je een senior UX'er die ook bouwt, of ken je iemand die er een zoekt? DM me of mail naar kenny@bold700.com.
+Zoek je een senior UX'er die ook bouwt, of ken je iemand die er een zoekt? DM me of mail naar kenny.timmer@bold700.com.
 
 ---
 
@@ -86,7 +86,7 @@ Zetten jullie weleens freelance seniors in bij klanten? Dan stuur ik graag mijn 
 
 Groet,
 Kenny Timmer — Bold700
-kenny@bold700.com
+kenny.timmer@bold700.com
 
 ### Variant B — AI-workflows-focus
 
@@ -102,7 +102,7 @@ Kwartiertje bellen om te zien of het past?
 
 Groet,
 Kenny Timmer — Bold700
-kenny@bold700.com
+kenny.timmer@bold700.com
 
 ---
 
