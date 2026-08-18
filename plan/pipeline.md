@@ -37,7 +37,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 | 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | ❌ afgewezen na gesprek 14 aug ("niet enthousiast over UI maken") | — | — | Optioneel: houd-me-warm-concept versturen; relatie Hero loopt door via Queenten |
 | 6 aug | UX-expert (overheid) | OverheidZZP | voorgesteld op €100/u (7 aug) | €100 | — | Concept in Gmail verzenden (gespreksdatum?) |
 | 20 jul | UX Designer/Researcher, Utrecht, schaal 11 | Caesar (Lisa van Meijeren / Merel Kok) | ❌ zelfde opdracht als Hero/Max-route; via Hero afgewezen 14 aug | — | — | Concept herschreven: belafspraak over Caesars oktober-pijplijn (Caesar = huidige broker, blijft toplead) |
-| 5 aug | UX-expert | Greenpepper (Lotte op vakantie; **Niek** pakt op, 06 57 48 86 15) | 🔥 **warmste lead**, maar Niek beloofde 17 aug "vandaag" terug te komen en is een dag te laat | — | — | 18 aug ±09:00: WhatsApp-nudge (tekst staat klaar); geen reactie vóór 16:00 → bellen. Lotte-concept NIET versturen |
+| 5 aug | UX-expert | Greenpepper (Lotte op vakantie; **Niek** pakt op, 06 57 48 86 15) | 🔥 **warmste lead**, maar Niek beloofde 17 aug "vandaag" terug te komen en is een dag te laat | — | — | Nudge verstuurd 18 aug 06:10; geen reactie vóór 16:00 → bellen (06 57 48 86 15). Bij vaag antwoord: vraag naar concreet moment. Lotte-concept NIET versturen |
 | 14 aug | Expert Network (AI-freelancers) | The Talent Institute (Charlotte) | gepitcht, geen reactie | — | — | Follow-up dag 5-regel: rond 19-20 aug |
 | 10 aug | Senior UX allrounder | ink.team (Brina, via Anna Noyons) | gepitcht 10 aug | — | — | Follow-up rond 19-20 aug |
 
