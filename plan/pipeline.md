@@ -16,7 +16,17 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 ## Context (18 aug)
 
 - **Huidige opdracht: Ministerie van Defensie, via broker Caesar** (t/m 30 sep). VGB is dus actueel: sterk verkoopargument bij overheidsaanvragen. Verlengingsvraag loopt via Caesar, niet rechtstreeks.
-- **Freelance.nl: 5 reacties geplaatst, nog geen respons.** Blijven aanvullen; respons op platformreacties komt vaak pas na sluitingsdatum.
+- **Freelance.nl: 77 reacties totaal geplaatst; 5 recente lopen nog** (zie tabel). Respons komt vaak pas na sluitingsdatum; blijven aanvullen met nieuwe passende publicaties.
+
+### Freelance.nl-reacties (actueel)
+
+| Gereageerd | Opdracht | Partij | Signaal | Follow-up |
+|---|---|---|---|---|
+| 17 aug 08:14 | UX-expert (Senior) | WannaFlex | 🔥 bekeken + **cv gedownload** binnen 25 min | 19–20 aug kort bericht via platform: beschikbaarheid per 1 okt bevestigen, gesprek aanbieden |
+| 17 aug 08:12 | Freelance UX designer | Digital Green b.v. | nog niet bekeken | check 22 aug (dag 5) |
+| 17 aug 08:17 | Service Designer | Spilberg Development B.V. | nog niet bekeken | check 22 aug |
+| 17 aug 08:18 | Expert Klantreizen | Hero Interim Professionals | open | loopt mee met Hero-relatie (Queenten/Max) |
+| 17 aug 08:19 | UX Designer | LINKIT | nog niet bekeken | check 22 aug; LINKIT staat óók op de registratielijst: profiel aanmaken versterkt deze reactie |
 
 ## Leads (Spoor A — opdrachten)
 
