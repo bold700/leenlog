@@ -15,6 +15,10 @@ De Hero-afwijzing (14 aug) was: "niet enthousiast over UI maken". Dat mag nooit 
 3. **AI-workflow — recent**
    Hoe je met Claude Code/Cursor van Figma-ontwerp naar werkend prototype gaat en wat dat de opdrachtgever oplevert: snellere validatie, minder overdracht. Frame: gereedschap in dienst van UX-kwaliteit, niet in plaats van.
 
+## Als ze doorvragen op het bouwen (eerlijk frame, uit je hoofd leren)
+
+"Ik ben ontwerper, geen software-engineer. Maar waar ik vroeger schermen overdroeg aan een developer, lever ik nu met AI-tooling (Claude Code, Cursor) een werkende frontend op. Voor productie werkt het dev-team daarop verder, en dat gaat sneller dan starten vanaf een Figma-bestand." Nooit claimen: zelfstandig productiecode, architectuur of code-reviews. Nooit zeggen: "ik kan niet coderen" — je bouwt wél, met ander gereedschap.
+
 ## Vragen die zij waarschijnlijk stellen (overheids-UX-rol)
 
 - "Hoe werk je met stakeholders die UX niet kennen of ertegen zijn?" → Defensie-case: draagvlak door mensen mee te nemen in onderzoek en validatie, niet door te zenden.

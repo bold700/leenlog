@@ -50,6 +50,10 @@ CAO-toeslagen/ORT en tariefstaffels; automatische herinneringen en aanmaningen; 
 ### Fase 3 — SaaS (2027) · abonnementsmodel
 Multi-tenant: meerdere uitzendbureaus op één platform, white-label, €99–249/mnd per bureau; koppelingenbibliotheek (meerdere boekhoudpakketten), planning-/roostermodule, app-store-loze PWA. Marcs bureau wordt launching customer (levenslang gereduceerd tarief) — zie rechten.
 
+## Bouwaanpak (eerlijk naar onszelf)
+
+Kenny bouwt met AI-tooling (Claude Code/Cursor), niet als traditionele engineer. Dat kan prima voor deze scope, mits met vangrails: het team (Claude) bouwt mee en reviewt; vóór livegang een security-check op de basics (auth, magic-link-verloop, dataisolatie per bureau, backups); en geen betalingsverkeer in fase 1 (alleen PDF/koppeling). De €99/mnd dekt monitoring en updates.
+
 ## Rechten & eigendom (harde voorwaarde in de offerte)
 
 - **Alle IP, broncode en ontwerpen blijven eigendom van Bold700 B.V.** — geen werk-voor-derden-overdracht.
