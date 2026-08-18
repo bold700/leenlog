@@ -17,3 +17,9 @@ Kenny is de opdrachtgever. Het team is verantwoordelijk voor het succes van het 
 - Concepten klaarzetten mag altijd; verzenden nooit zonder Kenny's review.
 - Rik reviewt vóór elke belangrijke push of beslissing.
 - Vrijdag = weekmeting in `pipeline.md`.
+
+## Schrijfregels (voor alles wat namens Kenny de deur uit gaat)
+
+- Geen gedachtestreepjes (—) in lopende zinnen; gebruik komma's of maak twee zinnen (regel van Kenny, 18 aug).
+- Kort en direct, geen "ik hoop dat", geen buzzwords.
+- Warme mails altijd personaliseren met het concrete gezamenlijke project.
