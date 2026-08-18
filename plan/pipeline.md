@@ -6,7 +6,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 
 | Week | Nieuwe leads | Gesprekken | Offertes/reacties | Getekend (€) | Notities |
 |---|---|---|---|---|---|
-| 34 (17–23 aug) | | | | | Target: gesprek huidige opdrachtgever (dag 1 = di 18 aug!), 15 warme contacten, 3 kernregistraties (Striive/Flextender/Yacht), referenties geregeld, LinkedIn-post |
+| 34 (17–23 aug) | | | | | ✅ Roos-gesprek + cv gedeeld ✅ GP-gesprek gepland (26/8) ✅ LinkedIn-post ingepland (19/8 08:30). Nog open: 15 warme contacten, registraties Striive/Flextender/Yacht, referenties |
 | 35 (24–30 aug) | | | | | Target: registraties af, warme contacten → 40, 15 koude mails, 5 opdracht-reacties, portfolio af |
 | 36 (31 aug–6 sep) | | | | | Target: follow-ups, 10 warme gesprekken gevoerd, 10+ reacties, workshop-pitches. **Vr 4 sep: GO/NO-GO** |
 | 37 (7–13 sep) | | | | | Target: closen op tekencriteria; bij no-go: 50% tijd naar Spoor B (verkocht vóór 25 sep) |
