@@ -19,7 +19,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 |---|---|---|---|---|---|---|
 | 17 aug | **Kadaster — Senior UX Designer, Apeldoorn** (t/m 28-2-2027 + optie 6 mnd, 36 u/wk, verloning) | Peoples Republic (Fayline Rijshouwer) | ⚠️ 18 aug door Kenny afgemeld o.b.v. aanname (holding vs verloning) — **heropening loopt** | €82,50 lag er | 14-9-2026 | Nieuw concept in Gmail (heropening + constructievragen) verzenden + accountant Repko bellen. **Sluiting: wo 26 aug 08:00** |
 | 29 jul | ICTU — UX-Expert, Den Haag/hybride, 25 mnd, 36-40 u | Hero (Queenten Leonora) | voorgesteld, wacht op nieuws | open; concept vraagt €95 | najaar | Concept in Gmail verzenden (status + tarief) |
-| 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | aangeboden 22 jul, stil sinds | — | — | Concept in Gmail verzenden (status-ping) |
+| 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | ❌ afgewezen na gesprek 14 aug ("niet enthousiast over UI maken") | — | — | Optioneel: houd-me-warm-concept versturen; relatie Hero loopt door via Queenten |
 | 6 aug | UX-expert (overheid) | OverheidZZP | voorgesteld op €100/u (7 aug) | €100 | — | Concept in Gmail verzenden (gespreksdatum?) |
 | 20 jul | UX Designer/Researcher, Utrecht, schaal 11 | Caesar (Lisa van Meijeren / Merel Kok) | aangemeld eind jul, status onbekend | — | — | Concept in Gmail verzenden + belafspraak over oktober-pijplijn (Caesar = huidige broker!) |
 | 5 aug | UX-expert | Greenpepper (Lotte Hilbers) | cv + antwoorden gestuurd 5 aug, stil | — | — | Concept in Gmail verzenden (status) |

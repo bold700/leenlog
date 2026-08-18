@@ -95,6 +95,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 
 - [ ] Koude mails 16–30 versturen + **follow-up-ronde op week-2-mails** (templates §3b: dag-5- en dag-12-opvolging — hier komt het grootste deel van de gesprekken vandaan).
 - [ ] Opdracht-reacties: 10+ deze week. Interviews voorbereiden: 3 cases paraat (Defensie = complexe stakeholders; AMP = design system; recent = AI-workflow).
+- [ ] **Interviewles (Hero, 14 aug):** de afwijzing was "niet enthousiast over UI maken". Het verhaal "ik bouw ook frontends en AI-workflows" kan overkomen alsof hands-on UI-werk je te min is. In elk gesprek expliciet benoemen: high-fidelity UI maken hoort er gewoon bij en doe je graag; de bouw-skills zijn een extra, geen vervanging.
 - [ ] Warme gesprekken voeren — **doel: 10 gevoerd vóór 6 sep.** Elke afspraak eindigt met: "wie moet ik nog meer spreken?"
 - [ ] Workshop-pitches: 10 warme partijen (oud-opdrachtgevers, bureaus met achterblijvende AI-adoptie, accountants-/branchekantoren). Pilotprijs inzetten.
 - [ ] Toptal-vetting starten — alleen als de pipeline op schema ligt (levert pas november+ op).
