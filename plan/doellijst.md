@@ -62,7 +62,7 @@ Prioriteitsvolgorde voor een start per 1 oktober:
 | # | Naam | Type | Waarom relevant | URL | Eerste actie |
 |---|------|------|-----------------|-----|--------------|
 | 1 | Striive (HeadFirst) | Grootste NL platform (120k+ professionals, 500+ opdrachtgevers) | Corporates + overheid publiceren direct; tarief/duur zichtbaar | striive.com/nl/zzp | Profiel + zoekagent "UX", "product designer", "design system", regio Utrecht |
-| 2 | Freep.nl | Overheidsopdrachten (Delance/payroll) | Overheid-inhuur, DBA-proof constructie; €3.000 basis + tot 85% van tarief | freep.nl | Account + alerts; tevens fallback-constructie |
+| 2 | ~~Freep.nl~~ | Payroll/Delance | **Vervallen: geen verloning/payroll (besluit 18 aug)** | — | Niet registreren |
 | 3 | Circle8 | Intermediair + platform | Raamcontracten ministeries (IenW, Financiën, AZ) | circle8.nl | Inschrijven als zelfstandig professional |
 | 4 | LINKIT | IT-broker/platform | Zelfde ministeries-raamovereenkomst | linkit.nl | Registreren in talentpool |
 | 5 | Malt NL | Marketplace | Actieve NL UX-categorie; inbound | malt.nl | Profiel op "Senior UX / design systems / AI-assisted"; beschikbaar per 1 okt |

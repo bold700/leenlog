@@ -51,7 +51,6 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 - [ ] Circle8
 - [ ] LINKIT
 - [ ] Magnit
-- [ ] Freep (fallback-constructie)
 - [ ] Overheids-agencies (2–3 van: Talent123, Get There, Quest4, Caesar Overheid, Bij Oranje)
 - [ ] Freelance.nl (+ dagelijkse alert)
 - [ ] Malt (profiel, beschikbaar per 1 okt)

@@ -38,14 +38,14 @@ De markt is krap (opdrachten −15% j/j, licht herstel in 2026) maar beloont pre
 | Striive (HeadFirst; ex-Select/Between) | 2–6 weken | maandfactuur + 14 dgn (Premium) | Week 1 registreren + tariefbenchmark |
 | Overheids-agencies: Talent123, Get There, Quest4, Caesar Overheid, Bij Oranje | 2–5 weken | 14–30 dgn | Week 2: bij 2–3 aanmelden; zij doen DAS-papierwerk |
 | Flextender + DAS-portals (aggregators: opdrachtoverheid.nl, inhuurloket.nl) | 3–7 weken | ±30 dgn | Week 1 toelating; reageren zodra publicaties komen |
-| Freep (Delance/payroll, overheid) | 2–5 weken | salaris eind eerste maand | Week 2 aanmelden als DBA-proof fallback: €3.000 basis + tot 85% van tarief |
+| ~~Freep (Delance/payroll, overheid)~~ | — | — | **Vervallen (besluit Kenny 18 aug): geen verloning/payroll-constructies** — netto blijft er te weinig over naast de BV-structuur |
 | Yacht, Harvey Nash (Maarssen!), Magnit, Circle8, LINKIT | 2–6 weken | conform termijn | Week 1: Yacht; week 2: rest. Let op: veel overheidsklussen "alleen detachering" |
 | Upwork | dagen–2 weken | wekelijks + 5 dgn | Alleen gap-filler; tarieven lager |
 | Toptal / Malt | te traag voor 1 okt | — | Toptal-vetting pas week 3, en alleen als pipeline op schema ligt |
 
 **VGB-check (dag 1, 5 minuten):** is je Defensie-screening (VGB) nog geldig/overdraagbaar? Zo ja: schaars pluspunt, expliciet noemen bij rijks-brokers. Zo nee: nieuwe screening duurt 6–8+ weken → Defensie-route is een november/december-kanaal; noem bij brokers "screeningservaring" in plaats van directe inzetbaarheid.
 
-**Wet DBA — bepaal je verhaal vóór het eerste gesprek.** Handhaving loopt sinds 2025; zachte landing eindigt 1-1-2027 en opdrachtgevers zetten dít najaar hun 2027-beleid. Steeds meer klussen zijn "geen zzp, alleen detachering". Jouw antwoord: (a) ondernemersprofiel op orde — meerdere klanten (workshops! plugin!), eigen tooling, resultaatafspraken, contracten ≤12 mnd (geldt ook bij verlenging huidige opdracht: totaal >12 mnd → constructie herbeoordelen); (b) tarief €85–95/u zit ver boven het rechtsvermoeden-drempeluurloon (±€39) dat per 2027 komt — noem dat actief; (c) waar de klant tóch detachering eist: via Harvey Nash/agency of Freep meebewegen. Constructie is ondergeschikt aan omzet.
+**Wet DBA — bepaal je verhaal vóór het eerste gesprek.** Handhaving loopt sinds 2025; zachte landing eindigt 1-1-2027 en opdrachtgevers zetten dít najaar hun 2027-beleid. Steeds meer klussen zijn "geen zzp, alleen detachering". Jouw antwoord: (a) ondernemersprofiel op orde — meerdere klanten (workshops! plugin!), eigen tooling, resultaatafspraken, contracten ≤12 mnd (geldt ook bij verlenging huidige opdracht: totaal >12 mnd → constructie herbeoordelen); (b) tarief €85–95/u zit ver boven het rechtsvermoeden-drempeluurloon (±€39) dat per 2027 komt — noem dat actief; (c) constructie-beleid (besluit 18 aug): **zzp via eigen BV is de standaard; detachering alleen als de netto-marge klopt; verloning/payroll doen we niet.** Eist een klant verloning, dan laten we die lopen en vragen we de broker ons te onthouden voor zzp-aanvragen.
 
 ### Spoor B — Productized services (parallel spoor, geen vangnet)
 
@@ -84,7 +84,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 
 ### Week 2 — 24–30 aug: registraties afmaken + volume opbouwen (±10 u)
 
-- [ ] **Registraties afronden:** Harvey Nash (Maarssen — bel ze), Magnit, Circle8, LINKIT, Freep, UX People, Aquent, YER, 2–3 overheids-agencies (Talent123, Get There, Quest4), Freelance.nl-alert, Malt-profiel.
+- [ ] **Registraties afronden:** Harvey Nash (Maarssen — bel ze), Magnit, Circle8, LINKIT, UX People, Aquent, YER, 2–3 overheids-agencies (Talent123, Get There, Quest4), Freelance.nl-alert, Malt-profiel. Overal expliciet vermelden: zzp via BV, geen verloning.
 - [ ] **Warm netwerk: rest van de 40 namen** aanschrijven + opvolgen wie niet reageerde (respons blijft vakantie-traag; niet uit paniek verdubbelen).
 - [ ] **Koude mails: eerste 15 van 30** (20 bureaus + 10 recruiters uit `doellijst.md`; templates §3 — 10 UX-focus, 5 AI-focus). Gepersonaliseerd, geen bulk.
 - [ ] Op élke passende opdracht-publicatie binnen 24 u reageren (template §4, zónder tarief vooraf — zie tariefscript §7). Doel: 5+ reacties.
@@ -104,7 +104,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 ### Week 4 — 7–13 sep: closen voor 1 oktober (±10 u)
 
 - [ ] Alle warme opdracht-leads doordrukken: vraag expliciet naar besluitdatum, bied startdatum 1 okt (of overlap: avonden/laatste sept-week voor overdracht).
-- [ ] **Tekencriteria (geen wanhoopsdeals):** ≥€85/u (of gemotiveerde uitzondering per tariefscript), ≥3 maanden, ≥24 u/wk, betaaltermijn ≤30 dgn of broker met snelle uitbetaling, DBA-constructie helder. Voldoet geen optie? → Spoor B opschalen, niet de slechte deal tekenen.
+- [ ] **Tekencriteria (geen wanhoopsdeals):** ≥€85/u (of gemotiveerde uitzondering per tariefscript), ≥3 maanden, ≥24 u/wk, betaaltermijn ≤30 dgn of broker met snelle uitbetaling, **constructie: zzp via BV (detachering alleen bij nette netto-marge; verloning nooit)**. Voldoet geen optie? → Spoor B opschalen, niet de slechte deal tekenen.
 - [ ] Bij 2+ opties die aan de criteria voldoen: teken de beste die vóór 20 sep rond kan zijn.
 - [ ] Overheids-DAS-reacties blijven doen (ook 1-nov-startdata: je november-dekking).
 - [ ] Spoor B: workshops/sites offreren en in oktober-agenda plannen.
@@ -113,7 +113,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 ### 14–30 sep: contract rond + oktober vullen
 
 - [ ] Contract/inkooporder getekend vóór 25 sep (modelovereenkomst-hygiëne, zie DBA-blok).
-- [ ] Geen opdracht rond? Draaiboek B draait dan al sinds 7 sep (go/no-go). Aanvullend: (1) Freep activeren (payroll = salaris 31 okt gegarandeerd), (2) Upwork-profiel live voor overbrugging, (3) Toptal-vetting doorzetten voor november+.
+- [ ] Geen opdracht rond? Draaiboek B draait dan al sinds 7 sep (go/no-go). Aanvullend: (1) Upwork-profiel live voor overbrugging, (2) Toptal-vetting doorzetten voor november+, (3) alle DAS-reacties met nov-startdata doorzetten.
 - [ ] Huidige opdracht netjes afronden; testimonial/LinkedIn-recommendation + "mag ik jullie als referentie gebruiken en weten jullie een volgende plek?"
 
 ### Vanaf 1 okt
@@ -146,7 +146,7 @@ Onderzoek (aug 2026): segmenten die snel beslissen (verenigingen, kerken, speelo
 
 - **Best case:** interim 32 u/wk à €90 ≈ **€12.500/mnd** + Spoor B erbovenop.
 - **Realistisch:** 24–32 u/wk à €85–95 ≈ €8.500–11.500/mnd, startend ergens in oktober.
-- **Nul-branch (geen contract op 1 okt):** 2 workshops (pilot €950–1.250 + vol dagdeel €1.750–2.500 = €2.700–3.750) + 1 fixed-price site (€2.500) ≈ €5.200–6.250 in oktober — alléén als verkocht vóór 25 sep; Freep-payroll als bodem (€3.000 + tariefopslag); Upwork als gap-filler. Interim-start schuift naar 1 nov (DAS-publicaties met nov-startdata lopen door).
+- **Nul-branch (geen contract op 1 okt):** 2 workshops (pilot €950–1.250 + vol dagdeel €1.750–2.500 = €2.700–3.750) + 1 fixed-price site (€2.500) ≈ €5.200–6.250 in oktober — alléén als verkocht vóór 25 sep; Upwork als gap-filler. Interim-start schuift naar 1 nov (DAS-publicaties met nov-startdata lopen door). Er is géén payroll-bodem (bewuste keuze) — de financiële bodem van §4b moet dit dragen.
 
 ### 4b. Financiële bodem (invullen vóór 20 aug — zonder deze getallen is elke beslisregel blind)
 
