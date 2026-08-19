@@ -6,7 +6,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 
 | Week | Nieuwe leads | Gesprekken | Offertes/reacties | Getekend (€) | Notities |
 |---|---|---|---|---|---|
-| 34 (17–23 aug) | | | | | ✅ Roos-gesprek + cv gedeeld ✅ GP-gesprek gepland (26/8) ✅ LinkedIn-post ingepland (19/8 08:30). Nog open: 15 warme contacten, registraties Striive/Flextender/Yacht, referenties |
+| 34 (17–23 aug) | | | | | ✅ Roos-gesprek + cv gedeeld ✅ ICTU-intake bevestigd (wo 26/8 11:00, via Greenpepper) ✅ LinkedIn-post live (19/8 08:30). Nog open: 15 warme contacten, registraties Striive/Flextender/Yacht, referenties |
 | 35 (24–30 aug) | | | | | Target: registraties af, warme contacten → 40, 15 koude mails, 5 opdracht-reacties, portfolio af |
 | 36 (31 aug–6 sep) | | | | | Target: follow-ups, 10 warme gesprekken gevoerd, 10+ reacties, workshop-pitches. **Vr 4 sep: GO/NO-GO** |
 | 37 (7–13 sep) | | | | | Target: closen op tekencriteria; bij no-go: 50% tijd naar Spoor B (verkocht vóór 25 sep) |
@@ -33,11 +33,11 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 | Datum | Naam / organisatie | Kanaal | Status¹ | Tarief | Startdatum | Volgende actie + datum |
 |---|---|---|---|---|---|---|
 | 17 aug | Kadaster — Senior UX Designer, Apeldoorn (verloning) | Peoples Republic (Fayline Rijshouwer) | Verloning afgewezen; Kenny heeft zelf gemaild dat hij bij een zzp-mogelijkheid aangeboden wil worden | €82,50 lag er | — | Geen reactie vóór do 20 aug → kort bellen (sluiting 26 aug); daarna sluiten |
-| 29 jul | ICTU — UX-Expert, 25 mnd | Hero (Queenten Leonora) | ❌ afgewezen 18 aug: uiteindelijk niet voorgesteld (afwijzing was nooit aangekomen) | — | — | ✅ afsluitmail verzonden 18 aug; lead gesloten, relatie warm |
+| 29 jul | ICTU — UX-Expert, 25 mnd | Hero (Queenten Leonora) | ❌ afgewezen 18 aug: uiteindelijk niet voorgesteld (afwijzing was nooit aangekomen) | — | — | ✅ afsluitmail verzonden 18 aug; lead gesloten, relatie warm. **NB:** via Greenpepper ligt er nu wél een ICTU-intake (zie hieronder); Hero heeft Kenny nooit voorgesteld, dus geen dubbele aanbieding |
 | 20 jul | UX/UI Designer (aanbiedformulier) | Hero (Max Ruiter) | ❌ afgewezen na gesprek 14 aug ("niet enthousiast over UI maken") | — | — | ✅ relatie actief: Max "blijft spits", zoekt breed (ook buiten overheid) mee; passief laten lopen |
 | 6 aug | UX-expert (overheid) | OverheidZZP | ❌ zelfde opdracht als Greenpepper-route; teruggetrokken (geen dubbele aanbieding) | €100 lag er | — | Concept verwijderen. Tariefanker €100 meenemen in Greenpepper-gesprek |
 | 20 jul | UX Designer/Researcher, Utrecht, schaal 11 | Caesar (Lisa van Meijeren / Merel Kok) | 🔥 gebeld 18 aug: Roos doet álle Defensie-aanvragen. Focus: **verlenging huidige opdracht opnieuw proberen** + ze biedt Kenny actief aan op al haar aanvragen (cv ligt bij haar) | — | — | ✅ cv (laatste versie) 18 aug gemaild naar Roos + Sabine Knopper. Roos aan zet; eind vd week geen update → kort bellen (06 81 72 24 88) |
-| 5 aug | UX-expert | Greenpepper (Lotte op vakantie; **Niek** pakt op, 06 57 48 86 15) | 🔥🔥 **GESPREK: di 26 aug 11:00, online** | €100 haalbaar | — | Voorbereiding: `interviewprep-greenpepper.md`. Weekend: cases doornemen; ma 25 aug: droogloop |
+| 5 aug | UX-expert — **eindklant ICTU** (traject met Rijkswaterstaat) | Greenpepper (Lotte op vakantie; **Niek** pakt op, 06 57 48 86 15) | 🔥🔥 **INTAKE BEVESTIGD: wo 26 aug 11:00, Teams** (uitnodiging 19 aug, Merel Seydel). Panel: Marian Herenius (Software Delivery Manager), Piter Blom (Lead Developer), Ralph Hendriks (Technical Lead, RWS) | €100 haalbaar | — | Voorbereiding: `interviewprep-greenpepper.md` (technisch panel!). Weekend: cases doornemen; di 25 aug: droogloop |
 | 14 aug | Expert Network (AI-freelancers) | The Talent Institute (Charlotte) | gepitcht, geen reactie | — | — | Follow-up dag 5-regel: rond 19-20 aug |
 | 10 aug | Senior UX allrounder | ink.team (Brina, via Anna Noyons) | gepitcht 10 aug | — | — | Follow-up rond 19-20 aug |
 

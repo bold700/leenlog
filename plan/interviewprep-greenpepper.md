@@ -1,6 +1,23 @@
-# Gespreksvoorbereiding — UX-expert (overheid) via Greenpepper
+# Gespreksvoorbereiding — Intake UX-expert bij ICTU (route via Greenpepper)
 
-**Dinsdag 26 augustus, 11:00, online.** Doel van het gesprek: zij moeten na 30 minuten denken "deze kan het, past bij ons, en is te krijgen". Tariefanker: via de OverheidZZP-route weten we dat €100/u voor deze rol haalbaar was.
+**Woensdag 26 augustus, 11:00, online via Microsoft Teams** (uitnodiging 19 aug van Merel Seydel, projectsecretaris ICTU; link + code in de mail, vergadering-id 360 933 827 494 31). Doel van het gesprek: zij moeten na 30 minuten denken "deze kan het, past bij ons, en is te krijgen". Tariefanker: via de OverheidZZP-route weten we dat €100/u voor deze rol haalbaar was.
+
+## Wie zitten er tegenover je (en wat betekent dat)
+
+| Naam | Rol |
+|---|---|
+| Marian Herenius | Software Delivery Manager (ICTU) |
+| Piter Blom | Lead Developer (ICTU) |
+| Ralph Hendriks | Technical Lead (Rijkswaterstaat) |
+
+Dit is een **technisch panel**: één delivery manager en twee technische leads, geen designers. Dat bepaalt de toon:
+
+- Zij beoordelen vooral: kun je met developers samenwerken, lever je bruikbaar werk op, vertraag je het team niet. Praat over design systems met tokens, overdracht zonder ruis, ontwerpen binnen technische kaders en meedraaien in sprints.
+- De Defensie-case is goud hier: data-intensieve applicaties, DevOps-teams, legacy-modernisering. Open daarmee.
+- De AI-workflow-case (Figma → werkend prototype met Claude Code/Cursor) landt bij dit publiek beter dan waar ook. Developers prikken wél direct door overclaimen heen: gebruik exact het eerlijke frame hieronder, niks meer.
+- De UI-enthousiasme-les blijft gewoon staan, ook voor dit panel: zij zoeken iemand die het maakwerk leuk vindt.
+- Ralph zit bij Rijkswaterstaat: de opdracht raakt dus vermoedelijk een RWS-traject dat ICTU uitvoert. Vraag ernaar (zie jouw vragen).
+- **Hero-nuance, alleen als het ter sprake komt:** Hero had ook een ICTU-aanvraag lopen maar heeft je daar nooit voorgesteld (bevestigd door Queenten, 18 aug). Er is dus geen dubbele aanbieding; mocht iemand ernaar vragen, zeg dat gewoon zo.
 
 ## De ene les die dit gesprek kan beslissen
 
@@ -25,17 +42,20 @@ De Hero-afwijzing (14 aug) was: "niet enthousiast over UI maken". Dat mag nooit 
 - "Hoe ga je om met toegankelijkheid?" → WCAG 2.1 AA is bij jou standaard onderdeel van het ontwerpproces (overheidsplicht), niet een check achteraf.
 - "Werken binnen een bestaand design system?" → Ja, en je bouwt ze ook zelf; je kunt beide kanten op.
 - "Waarom ben je beschikbaar?" → "Mijn inzet bij Defensie loopt eind september af; ik plan mijn Q4 en deze rol past precies." Nooit: "ik heb niks anders."
-- "Wat is je tarief?" → Noem zelf geen bedrag als het niet hoeft; komt het: **€100**, onderbouwd met senior profiel, VGB en directe inzetbaarheid. Bodem blijft €85.
+- "Wat is je tarief?" → Noem zelf geen bedrag als het niet hoeft; komt het: **€100**, onderbouwd met senior profiel, VGB en directe inzetbaarheid. Bodem blijft €85. (Grote kans dat dit panel er niet over begint: tarief loopt via Greenpepper.)
+- Technische vragen van Piter/Ralph ("hoe lever je op?", "werk je met onze stack?") → antwoord altijd vanuit samenwerking: tokens en componenten in het design system, ontwerpen binnen de bestaande frontend-kaders, prototypes die het dev-team direct kan gebruiken. Nooit doen alsof je hun stack-keuzes gaat maken.
 
 ## Jouw vragen aan hen (kies er 3)
 
 1. "Wat moet er over drie maanden staan waardoor jullie zeggen: dit is gelukt?"
 2. "Hoe ziet het team eruit en waar in het proces komt UX nu vaak te laat?"
 3. "Werken jullie met een bestaand design system of moet dat volwassen worden?"
-4. "Wat is het vervolgproces en wanneer beslissen jullie?" *(altijd als laatste, dwingt een datum af)*
+4. "Hoe verhoudt dit traject zich tot Rijkswaterstaat, en wie is straks mijn dagelijkse opdrachtgever?" *(laat zien dat je de context al doorziet)*
+5. "Wat is het vervolgproces en wanneer beslissen jullie?" *(altijd als laatste, dwingt een datum af)*
 
 ## Online-gesprek, praktisch
 
+- Microsoft Teams: link, id en wachtwoordcode staan in de mail van Merel Seydel (19 aug); test Teams vooraf op de laptop
 - Camera aan, rustige achtergrond, telefoon op stil; log 5 minuten eerder in
 - Portfolio/casussen als PDF klaar om te delen via scherm (de bijlage-casussen uit Figma)
 - Cv v3 vooraf aan Niek sturen zodat de gesprekspartners de juiste versie hebben
@@ -47,5 +67,5 @@ De Hero-afwijzing (14 aug) was: "niet enthousiast over UI maken". Dat mag nooit 
 |---|---|
 | Deze week | Cv v3 exporteren en naar Niek én Roos sturen; casussen-PDF exporteren |
 | Weekend | Drie cases hardop oefenen (90 sec per stuk) |
-| Ma 25 aug | Droogloop: iemand laat de 5 verwachte vragen stellen; techniek testen |
-| Di 26 aug 10:45 | Inloggen, water, cases-PDF open |
+| Di 25 aug | Droogloop: iemand laat de 5 verwachte vragen stellen; Teams-techniek testen |
+| Wo 26 aug 10:45 | Inloggen via de Teams-link, water, cases-PDF open |
