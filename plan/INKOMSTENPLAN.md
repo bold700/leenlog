@@ -13,6 +13,7 @@ Sterk verkoopbaar:
 - Figma/Penpot-tooling: Figma-plugin met 1000+ gebruikers, Penpot MCP-server
 - AI-workflows in design/code/content (Claude Code, Cursor, v0, Figma AI) — huidige Bold700-positionering
 - Snelle frontend-prototypes: Next.js + shadcn/ui + Firebase; Webflow
+- **Vertaler van complex naar klanttaal.** Kenny filtert in een gesprek een technisch verhaal terug naar wat het de doelgroep oplevert, en bouwt daarvandaan verhaal → tekst → website. Bewijs (19 aug): vriend met technisch product praatte in features ("we hebben dit zo gebouwd, technisch werkt het zo"); Kenny's vertaling in één zin: "je wordt als eerste gevonden in ChatGPT, net zoals je in Google gevonden wordt." Twee uur gesprek, kern eruit, richting bepaald. Dit is óók de volgorde waarin hij verkoopt: eerst het verhaal en de tekst, dan pas design en site. Gebruik dit in pitches en gesprekken: het onderscheidt hem van uitvoerende designers en past bij vroeg betrokken worden bij idee, concept en strategie.
 
 **Tariefkader (NL, 2026):** freelance UX €65–110/u; product designer die UX+UI+Figma combineert €90–110/u; senior frontend/full-stack €70–100+/u; Striive-platformgemiddelde €90/u. AI-skills zijn dé tariefpremie van dit moment (gemiddeld ICT-uurtarief passeerde €100).
 **Vraagtarief: €95/u. Ondergrens: €85/u — en die blijft staan** (zie tariefscript in `outreach-templates.md` §7). Zakt de pipeline, dan verbreed je de scope (UI-heavy en frontend-rollen meepakken), niet het tarief. Tariefverlaging is pas een expliciete beslissing op 20 sep, gekoppeld aan je runway (§4b).
