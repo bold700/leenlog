@@ -61,11 +61,15 @@ De Hero-afwijzing (14 aug) was: "niet enthousiast over UI maken". Dat mag nooit 
 - Cv v3 vooraf aan Niek sturen zodat de gesprekspartners de juiste versie hebben
 - Afsluiten met interesse + de procesvraag: "Ik heb er zin in; wat is de volgende stap?"
 
+## Voorbereidingsdocumenten van Niek (ontvangen do 20 aug)
+
+Drie PDF's in de mail "Afspraakbevestiging en voorbereidingsdocumenten - UX-Expert - RWS": **Opdrachtomschrijving-UX-expert.pdf**, **Gespreksvoorbereiding-Kenny-Timmer-UX-expert.pdf** (persoonlijk!) en **Intakegesprek Voorbereiding.pdf**. Vóór het weekend doorlezen en aan het team geven om in deze prep te verwerken. De opdrachtomschrijving is leidend: daar staan de woorden in die het panel zelf gebruikt.
+
 ## Planning tot het gesprek
 
 | Wanneer | Wat |
 |---|---|
-| Deze week | Cv v3 exporteren en naar Niek én Roos sturen; casussen-PDF exporteren |
+| Vr 21 aug | De 3 PDF's van Niek lezen + delen met het team; cases-PDF exporteren |
 | Weekend | Drie cases hardop oefenen (90 sec per stuk) |
-| Di 25 aug | Droogloop: iemand laat de 5 verwachte vragen stellen; Teams-techniek testen |
-| Wo 26 aug 10:45 | Inloggen via de Teams-link, water, cases-PDF open |
+| **Ma 24 aug 10:30** | **Voorbereidingsgesprek met Niek via Teams** (link in mail "Voorbereiding intake"). Dit is de droogloop: laat Niek de verwachte vragen stellen en vraag wat het panel belangrijk vindt |
+| Wo 26 aug 10:45 | Inloggen via de Teams-link van Merel, water, cases-PDF open |
