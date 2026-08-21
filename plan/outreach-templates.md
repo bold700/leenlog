@@ -154,6 +154,12 @@ Groet, Kenny Timmer
 
 Casus-post: laat een recent project zien waarin je van Figma-ontwerp direct naar werkende Next.js/shadcn-frontend ging met Claude Code. Concreet: wat de klant kreeg, hoeveel sneller het ging, wat er wegviel (redlines, specs, discussies over spacing). Sluit af met de vraag hoe anderen dit aanpakken, goed voor comments.
 
+### Di 25 aug — Persoonlijkheidspost: kickbokstrainer-diploma's (klaar, gekozen 21 aug)
+
+**Openingszin:** "Naast UX designer ben ik nu ook officieel kickbokstrainer."
+
+Kern: diploma's Kickboksen Trainer/Coach 2 (NOC*NSF) + Jeugdtrainer binnen; Kenny ondersteunt Simone in haar personal training studio (Van As). Brug naar het vak: lesgeven aan kickboksers = aandacht vasthouden, complexe dingen opknippen in stappen, corrigeren zonder motivatie te breken; exact de workshop- en stakeholdervaardigheden van een UX'er. Slotzin: "Beter worden in je vak doe je soms buiten je vak." Beeld: carrousel van 2 (diploma-selfie eerst, dan studiofoto met VA-logo). Geen hashtags. Volledige tekst in de chat van 21 aug.
+
 ### Week 3 — "Wat 1.000+ designers me leerden over tooling bouwen"
 
 **Openingszin:** "Toen ik mijn Figma-plugin bouwde, dacht ik dat het een weekendproject zou blijven. Inmiddels gebruiken meer dan duizend designers hem."
