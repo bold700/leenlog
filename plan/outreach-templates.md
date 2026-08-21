@@ -160,6 +160,12 @@ Casus-post: laat een recent project zien waarin je van Figma-ontwerp direct naar
 
 Kern: diploma's Kickboksen Trainer/Coach 2 (NOC*NSF) + Jeugdtrainer binnen; Kenny ondersteunt Simone in haar personal training studio (Van As). Brug naar het vak: lesgeven aan kickboksers = aandacht vasthouden, complexe dingen opknippen in stappen, corrigeren zonder motivatie te breken; exact de workshop- en stakeholdervaardigheden van een UX'er. Slotzin: "Beter worden in je vak doe je soms buiten je vak." Beeld: carrousel van 2 (diploma-selfie eerst, dan studiofoto met VA-logo). Geen hashtags. Volledige tekst in de chat van 21 aug.
 
+### Do 28 aug — "Dit shirt is een prototype" (klaar, gekozen 21 aug)
+
+**Openingszin:** "Dit shirt is een prototype."
+
+Kern: Kenny drukt met eigen apparatuur merch voor de eigen merken (foto: Bold700 "VIBE Coding"-shirt). Parallel: fysiek drukken = vibe coding. Een ontwerp op een scherm blijft een plaatje; pas als je het zelf maakt (drukt of bouwt) wordt het echt en kun je passen, voelen en bijstellen. Vibe coding brengt hem als designer dichter bij developers: "we praten niet meer over specs, we praten over iets wat al draait." Slotzin: "Ontwerpen wordt pas echt als je het maakt." Beeld: shirt op hanger met werkplek op achtergrond. Volledige tekst in de chat van 21 aug. NB: die developers-zin ook gebruiken in de RWS-intake.
+
 ### Week 3 — "Wat 1.000+ designers me leerden over tooling bouwen"
 
 **Openingszin:** "Toen ik mijn Figma-plugin bouwde, dacht ik dat het een weekendproject zou blijven. Inmiddels gebruiken meer dan duizend designers hem."

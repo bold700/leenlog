@@ -30,7 +30,7 @@ De Hero-afwijzing (14 aug) was: "niet enthousiast over UI maken". Dat mag nooit 
 2. **AMP — design system van nul**
    Van losse schermen naar een componentbibliotheek met tokens die design en development deelt. Vertel wat er misging vóór het systeem er was en wat het team eraan overhield.
 3. **AI-workflow — recent**
-   Hoe je met Claude Code/Cursor van Figma-ontwerp naar werkend prototype gaat en wat dat de opdrachtgever oplevert: snellere validatie, minder overdracht. Frame: gereedschap in dienst van UX-kwaliteit, niet in plaats van.
+   Hoe je met Claude Code/Cursor van Figma-ontwerp naar werkend prototype gaat en wat dat de opdrachtgever oplevert: snellere validatie, minder overdracht. Frame: gereedschap in dienst van UX-kwaliteit, niet in plaats van. Zin die het bij dít panel (twee developers) goed doet: **"Het brengt mij als designer dichter bij de developers: we praten niet meer over specs, we praten over iets wat al draait."**
 
 ## Als ze doorvragen op het bouwen (eerlijk frame, uit je hoofd leren)
 
