@@ -55,7 +55,7 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 
 | Datum | Wat | Met wie | Status | Kans voor Kenny | Regels |
 |---|---|---|---|---|---|
-| 18 aug | Eigen drank (elektrolyten; creatine alleen als sachet, instabiel in blik) | Greg (Taste of USA, distributie VS-producten; contact via Simone) | verkennend; açaí-samples 19 aug; onderzoek gedaan (RTD-analyse). **21 aug: Kenny stuurde before/after-mockup van de Taste of USA-site; Greg enthousiast ("ziet er dik uit") maar wist niet dat Kenny websites maakt en is nét deze week met zijn site naar een ander over** | merk, verpakking, webshop, content = betaald werk of aandeel | Rol + vergoeding vroeg vastleggen (fee/equity/mix); max paar uur/wk tot interim-opdracht getekend is. Website: relatie warm houden, aanbod laten staan voor als de andere partij tegenvalt |
+| 18 aug | Eigen drank (elektrolyten; creatine alleen als sachet, instabiel in blik) | Greg (Taste of USA, distributie VS-producten; contact via Simone) | verkennend; açaí-samples 19 aug; onderzoek gedaan (RTD-analyse). **21 aug: Kenny stuurde before/after-mockup van de Taste of USA-site; Greg enthousiast ("ziet er dik uit") maar wist niet dat Kenny websites maakt en is nét deze week met zijn site naar een ander over** | merk, verpakking, webshop, content = betaald werk of aandeel | Rol + vergoeding vroeg vastleggen (fee/equity/mix); max paar uur/wk tot interim-opdracht getekend is. Website: 21 aug avond netjes afgerond, Kenny bood aan mee te kijken of te coachen zodra de andere partij iets oplevert. Let op: één korte blik is vriendendienst, een structurele review of coaching is betaald werk |
 
 ## Registraties — week 1 (kern, hoogste dekking)
 
