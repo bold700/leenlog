@@ -166,11 +166,15 @@ Casus-post: laat een recent project zien waarin je van Figma-ontwerp direct naar
 
 Kern: diploma's Kickboksen Trainer/Coach 2 (NOC*NSF) + Jeugdtrainer binnen; Kenny ondersteunt Simone in haar personal training studio (Van As). Brug naar het vak: lesgeven aan kickboksers = aandacht vasthouden, complexe dingen opknippen in stappen, corrigeren zonder motivatie te breken; exact de workshop- en stakeholdervaardigheden van een UX'er. Slotzin: "Beter worden in je vak doe je soms buiten je vak." Beeld: carrousel van 2 (diploma-selfie eerst, dan studiofoto met VA-logo). Geen hashtags. Volledige tekst in de chat van 21 aug.
 
-### Do 28 aug — "Dit shirt is een prototype" (klaar, gekozen 21 aug)
+### Do 28 aug — "Maak jij ook websites?" (Greg-anekdote, klaar 21 aug)
 
-**Openingszin:** "Dit shirt is een prototype."
+**Openingszin:** '"Maak jij ook websites?" Die vraag kreeg ik deze week. Van een vriend. Die ik al jaren ken.'
 
-Kern: Kenny drukt met eigen apparatuur merch voor de eigen merken (foto: Bold700 "VIBE Coding"-shirt). Parallel: fysiek drukken = vibe coding. Een ontwerp op een scherm blijft een plaatje; pas als je het zelf maakt (drukt of bouwt) wordt het echt en kun je passen, voelen en bijstellen. Vibe coding brengt hem als designer dichter bij developers: "we praten niet meer over specs, we praten over iets wat al draait." Slotzin: "Ontwerpen wordt pas echt als je het maakt." Beeld: shirt op hanger met werkplek op achtergrond. Volledige tekst in de chat van 21 aug. NB: die developers-zin ook gebruiken in de RWS-intake.
+Kern: vriend (anoniem) wist na jaren niet dat Kenny websites maakt en ging nét die week voor zijn site met een ander in zee. Les: je netwerk weet minder over je dan je denkt. Daarna in gewone taal het aanbod: "Ik ontwerp én bouw websites, webshops en apps. Van eerste idee tot en met livegang." Slotvraag als comment-bait: "Wat doe jij waarvan de mensen om je heen het waarschijnlijk niet weten?" Beeld: alleen met Gregs toestemming de before/after (of merknaam blurren), anders tekst-only. Volledige tekst in de chat van 21 aug.
+
+### Di 1 sep — "Dit shirt is een prototype" (klaar, gekozen 21 aug; slotzin met aanbod)
+
+**Openingszin:** kort statement over de nieuwe manier van werken: de wachtrij tussen idee en werkelijkheid is weg (drukkerij voor een shirt, weken development voor een design). Met Claude bouwt Kenny een design in dagen om tot iets wat echt werkt; shirts voor eigen merken drukt hij zelf, kleinschalig. Kern: "De afstand tussen bedenken en maken is nog nooit zo klein geweest." Slot: aanbod in gewone taal ("En ja, dit doe ik ook voor anderen. Websites, webshops en apps, van ontwerp tot en met bouwen."). Beeld: Bold700 VIBE Coding-shirt op hanger met werkplek op achtergrond. NB: de developers-zin ("we praten niet meer over specs, we praten over iets wat al draait") ook gebruiken in de RWS-intake.
 
 ### Week 3 — "Wat 1.000+ designers me leerden over tooling bouwen"
 
