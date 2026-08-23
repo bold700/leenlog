@@ -1,6 +1,18 @@
-# Gespreksvoorbereiding — Intake UX-expert bij ICTU (route via Greenpepper)
+# Gespreksvoorbereiding — Intake UX-expert Rijkswaterstaat (via Greenpepper)
 
 **Woensdag 26 augustus, 11:00, online via Microsoft Teams** (uitnodiging 19 aug van Merel Seydel, projectsecretaris ICTU; link + code in de mail, vergadering-id 360 933 827 494 31). Doel van het gesprek: zij moeten na 30 minuten denken "deze kan het, past bij ons, en is te krijgen". Tariefanker: via de OverheidZZP-route weten we dat €100/u voor deze rol haalbaar was.
+
+## De opdracht in feiten (uit de opdrachtomschrijving, 20 aug)
+
+- **Organisatie:** Rijkswaterstaat (uitvoering via ICTU). **Standplaats Den Haag, 40 uur per week, looptijd 31-08-2026 t/m 31-08-2027.**
+- **Kern:** zelfstandig de UX- en onderzoeksaanpak voor de **voorfase van de module configuratiemanagement** van een zaaksysteem opstellen en uitvoeren: contextual inquiry, interviews en usability-onderzoek, vertaald naar taakanalyses, ontwerpuitgangspunten en gevalideerde prototypes.
+- **Gebruikersgroepen:** wegverkeersleiders, adviseurs verkeersmanagement, configuratiebeheerders, missiekritieke ondersteuning. Dit is de wereld van **verkeerscentrales**, dus bedienbaarheid, situationeel bewustzijn en foutpreventie.
+- **Eindresultaten:** gevalideerde en door de product owner geaccepteerde ontwerpen als basis voor development, een afgestemde **styleguide**, en documentatie plus workshops voor warme kennisoverdracht.
+- **Eis om te onthouden:** zij verwachten desgewenst een **korte casusbeschrijving of portfoliopresentatie** bij het gesprek. De casussen-PDF moet dus vóór woensdag af en gedeeld zijn.
+
+## ⚠️ Startdatum: maandag met Niek bespreken
+
+De opdracht start op papier **31 augustus, 40 uur per week**, terwijl je inzet bij Defensie tot en met 30 september loopt. Dit is geen reden tot paniek (startdata schuiven vaak bij inhuur), maar het moet vóór het gesprek helder zijn. Vraag Niek maandag: "De startdatum staat op 31 augustus; mijn huidige inzet loopt tot en met 30 september. Hoe hard is die datum, en hoe presenteren we dit?" Mogelijke routes: opschuiven naar 1 oktober, of ingroeien in deeltijd naast Defensie als je huidige opdrachtgever dat toestaat. **In het gesprek zelf: eerlijk zijn als het gevraagd wordt, niets beloven wat je niet kunt waarmaken.**
 
 ## Wie zitten er tegenover je (en wat betekent dat)
 
@@ -61,9 +73,20 @@ De Hero-afwijzing (14 aug) was: "niet enthousiast over UI maken". Dat mag nooit 
 - Cv v3 vooraf aan Niek sturen zodat de gesprekspartners de juiste versie hebben
 - Afsluiten met interesse + de procesvraag: "Ik heb er zin in; wat is de volgende stap?"
 
-## Voorbereidingsdocumenten van Niek (ontvangen do 20 aug)
+## Wat Greenpepper je zelf op het hart drukt (uit hun persoonlijke voorbereiding, verwerkt 21 aug)
 
-Drie PDF's in de mail "Afspraakbevestiging en voorbereidingsdocumenten - UX-Expert - RWS": **Opdrachtomschrijving-UX-expert.pdf**, **Gespreksvoorbereiding-Kenny-Timmer-UX-expert.pdf** (persoonlijk!) en **Intakegesprek Voorbereiding.pdf**. Vóór het weekend doorlezen en aan het team geven om in deze prep te verwerken. De opdrachtomschrijving is leidend: daar staan de woorden in die het panel zelf gebruikt.
+De belangrijkste punten uit hun document, gefilterd op wat écht telt:
+
+1. **Bereid twee controleerbare onderzoekscases voor** (eis: 2 opdrachten met exploratief + evaluatief onderzoek). Per case: doelgroep, onderzoeksvraag, methoden (contextual inquiry, interviews, usability-tests), jouw zelfstandige rol en de vertaling naar concrete ontwerpbeslissingen. Defensie is case 1; TinQwise (B2B-leerplatformen, gebruikerstesten) is case 2.
+2. **Herleidbaarheid is hun stokpaardje.** Ze willen horen hoe een observatie uit onderzoek aantoonbaar leidde tot een aanpassing in een flow, wireframe of prototype. Bereid één concreet voorbeeld voor waarin die keten klopt: bevinding → behoefte → ontwerpuitgangspunt → ontwerpkeuze → validatie.
+3. **Claim géén missiekritieke 24/7-bedienomgeving.** Dat is een wens, geen eis. Jouw eerlijke frame: "Ik werk sinds 2022 voor professionele en operationele gebruikers bij Defensie die niet gestoord mogen worden in hun werkproces. Een 24/7-verkeerscentrale heb ik niet ontworpen; de principes (foutpreventie, taakgericht, geen productiviteitsverlies) zijn wel precies waar ik dagelijks mee werk."
+4. **Legacy-modernisering mag je wél claimen**: het Defensie-zaaksysteem is gemoderniseerd met behoud van ingesleten werkprocessen. Dat is letterlijk hun wens-formulering.
+5. **Figma recent**: koppel aan Defensie (2022-heden): design system, componentbibliotheek, prototypes waar developers en stakeholders direct mee werken.
+6. **Overlappende cv-periodes**: ze waarschuwen dat je cv overlappende opdrachten toont (o.a. FrieslandCampina 2017–2024 parallel). Antwoord paraat: "FrieslandCampina liep parallel in deeltijd naast andere opdrachten; mijn hoofdinzet was steeds één opdracht." (Staat in cv v3 al als "parallel, deeltijd".)
+7. **Motivatievraag komt zeker** ("waarom deze opdracht bij RWS?"), en die moest je zelf nog formuleren. Voorzet, in jouw woorden: *"Dit is precies het werk waar ik goed in ben én blij van word: professionele gebruikers met een serieuze taak, een complex systeem dat gemoderniseerd wordt, en onderzoek dat écht de basis vormt voor het ontwerp. Bij Defensie doe ik dit sinds 2022 en die opdracht rond ik netjes af; dit voelt als de logische volgende. En eerlijk: dat het maatschappelijk zichtbaar werk is, van wegverkeersleiders tot verkeersmanagement, maakt het voor mij extra de moeite."*
+8. **Hun aanbevolen afsluiting** (mooi, gebruik hem): dank voor de toelichting, benoem de match met onderzoek + complexe taakstromen + toegankelijkheid + samenwerking met development, en vraag welke resultaten en uitdagingen in de eerste fase het belangrijkst zijn.
+
+Hun lijst "slimme vragen om te stellen" overlapt met de onze; sterkste toevoegingen: "Welke taken en fouten binnen configuratiemanagement hebben de grootste operationele impact?" en "Wat verwachten jullie concreet van de UX-expert in de eerste weken?"
 
 ## Planning tot het gesprek
 
