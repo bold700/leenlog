@@ -55,6 +55,12 @@ Hoor of zie je in jouw omgeving iets waar dat past? Een naam of introductie is a
 Groet,
 Kenny
 
+### Variant C — vrienden en niet-vakgenoten (WhatsApp, gewone-mensen-taal)
+
+Les van 21 aug (Greg): zelfs vrienden weten niet dat Bold700 websites maakt; Greg stapte deze week naar een ander over voor zijn site. In deze kring dus nooit "senior UX" of "frontends" zeggen, maar gewoon:
+
+Hey [naam]! Kleine heads-up vanuit mijn kant: naast mijn vaste opdrachten heb ik met Bold700 ruimte voor nieuwe projecten. Ik maak websites, webshops en apps, van ontwerp tot en met het bouwen. Dus als jij of iemand in je omgeving daar ooit iemand voor zoekt: eerst even bij mij checken voordat je een bureau belt. 😉
+
 ### Variant B — vraagt om koffie
 
 Hoi [naam],
