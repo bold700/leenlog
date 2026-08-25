@@ -10,9 +10,13 @@
 - **Eindresultaten:** gevalideerde en door de product owner geaccepteerde ontwerpen als basis voor development, een afgestemde **styleguide**, en documentatie plus workshops voor warme kennisoverdracht.
 - **Eis om te onthouden:** zij verwachten desgewenst een **korte casusbeschrijving of portfoliopresentatie** bij het gesprek. De casussen-PDF moet dus vóór woensdag af en gedeeld zijn.
 
-## ⚠️ Startdatum: maandag met Niek bespreken
+## Startdatum: afgestemd antwoord (met Niek besproken, 24-25 aug)
 
-De opdracht start op papier **31 augustus, 40 uur per week**, terwijl je inzet bij Defensie tot en met 30 september loopt. Dit is geen reden tot paniek (startdata schuiven vaak bij inhuur), maar het moet vóór het gesprek helder zijn. Vraag Niek maandag: "De startdatum staat op 31 augustus; mijn huidige inzet loopt tot en met 30 september. Hoe hard is die datum, en hoe presenteren we dit?" Mogelijke routes: opschuiven naar 1 oktober, of ingroeien in deeltijd naast Defensie als je huidige opdrachtgever dat toestaat. **In het gesprek zelf: eerlijk zijn als het gevraagd wordt, niets beloven wat je niet kunt waarmaken.**
+De opdracht start op papier 31 augustus, 40 uur per week; Defensie loopt t/m 30 september. Het afgesproken antwoord voor het gesprek, letterlijk paraat:
+
+> **"De praktische kant: mijn huidige inzet loopt tot en met 30 september. In overleg met mijn huidige opdrachtgever kan ik in september al twee dagen per week starten, en vanaf 1 oktober ben ik fulltime beschikbaar."**
+
+De nuance "in overleg met mijn huidige opdrachtgever" laat staan: het toont professionaliteit en voorkomt een belofte die je niet zelf in de hand hebt. Vóór een eventuele start in september: dit daadwerkelijk afstemmen met Defensie/Caesar (Roos weet van je situatie).
 
 ## Wie zitten er tegenover je (en wat betekent dat)
 
