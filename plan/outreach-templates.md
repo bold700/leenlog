@@ -170,7 +170,7 @@ Kern: diploma's Kickboksen Trainer/Coach 2 (NOC*NSF) + Jeugdtrainer binnen; Kenn
 
 **Openingszin:** '"Maak jij ook websites?" Die vraag kreeg ik deze week. Van een vriend. Die ik al jaren ken.'
 
-Kern: vriend (anoniem) wist na jaren niet dat Kenny websites maakt en ging nét die week voor zijn site met een ander in zee. Les: je netwerk weet minder over je dan je denkt. Daarna in gewone taal het aanbod: "Ik ontwerp én bouw websites, webshops en apps. Van eerste idee tot en met livegang." Slotvraag als comment-bait: "Wat doe jij waarvan de mensen om je heen het waarschijnlijk niet weten?" Beeld: alleen met Gregs toestemming de before/after (of merknaam blurren), anders tekst-only. Volledige tekst in de chat van 21 aug.
+Kern: vriend (anoniem) wist na jaren niet dat Kenny websites maakt en ging nét die week voor zijn site met een ander in zee. Les: je netwerk weet minder over je dan je denkt. Daarna het bewijs: selfie met de drie recent gebouwde websites (Simone, Margot, Martijn) in beeld, zelfde format als de diplomafoto. Aanbod in gewone taal ("websites, webshops en apps, ontwerp én bouw zelf, dus snel"). Slotvraag als comment-bait: "Wat doe jij waarvan jouw netwerk het waarschijnlijk niet weet?" Vooraf: Simone, Margot en Martijn even toestemming vragen; eventueel taggen in de foto. Definitieve tekst in de chat van 25 aug.
 
 ### Di 1 sep — "Dit shirt is een prototype" (klaar, gekozen 21 aug; slotzin met aanbod)
 
