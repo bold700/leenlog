@@ -18,6 +18,18 @@ De opdracht start op papier 31 augustus, 40 uur per week; Defensie loopt t/m 30 
 
 De nuance "in overleg met mijn huidige opdrachtgever" laat staan: het toont professionaliteit en voorkomt een belofte die je niet zelf in de hand hebt. Vóór een eventuele start in september: dit daadwerkelijk afstemmen met Defensie/Caesar (Roos weet van je situatie).
 
+## Context van de opdracht: MTM2 en het MTM-Next-programma (research 25 aug)
+
+De opdracht is vrijwel zeker onderdeel van **MTM-Next**: de modulaire modernisering van **MTM2**, hét verkeerssignaleringssysteem van het hoofdwegennet. MTM2 meet verkeer via detectielussen, detecteert files en stuurt de matrixborden boven de snelweg aan; het systeem is end-of-life en wordt module voor module vernieuwd. **De eerste iteratie is de module configuratiemanagement**, precies jouw opdracht. De verkeerscentrales (landelijk VCNL plus regionaal Helmond, Utrecht, Wolfheze, Velsen, Rhoon) zijn de operationele context.
+
+Gebruik dit slim, niet opzichtig: één zin als "ik heb me ingelezen in MTM2 en het MTM-Next-programma, mooi dat jullie module voor module moderniseren met configuratiemanagement als start" laat zien dat je huiswerk hebt gedaan. En het maakt je vragen concreter: "wat gebeurt er operationeel als configuratie fout gaat?" raakt de kern van hun wereld (foutpreventie op de snelweg).
+
+## De gesprekspartners (publiek vindbaar, research 25 aug)
+
+- **Marian Herenius**: LinkedIn vermeldt "Hoofd afdeling ICTU software expertise", dus zwaarder dan alleen delivery manager van dit team. Eerder betrokken bij het ReIS Aanvraag Portaal (RvIG), waar ze in een interview sprak over teamstructuur en kwaliteitsborging. Verwacht vragen over proces, kwaliteit en samenwerking. Jouw verhaal over UX borgen in DevOps-teams en overdraagbare documentatie is voor haar.
+- **Piter Blom**: achtergrond als senior Java-developer, scrum master en stelselarchitect bij ICTU (Den Haag), actief op GitHub. Een echte bouwer met architectuur-blik. Voor hem: de AI-workflow-case, technische haalbaarheid vroeg toetsen, en "we praten niet over specs maar over iets wat al draait".
+- **Ralph Hendriks (Technical Lead, RWS)**: publiek weinig over te vinden, waarschijnlijk gewoon geen actieve online aanwezigheid. Hij is de RWS-kant en kent de verkeerscentrale-praktijk; richt je operationele vragen (grootste risico's, impact van fouten) op hem.
+
 ## Wie zitten er tegenover je (en wat betekent dat)
 
 | Naam | Rol |
