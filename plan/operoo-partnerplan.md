@@ -9,6 +9,7 @@
 - **Vanaf livegang: €349/mnd beheer** — hosting (Vercel + EU-database, Bold700-accounts), security (updates, 2FA, toegangsbeheer), dagelijkse back-ups + wekelijks extern + kwartaal-hersteltest, monitoring, support (2 werkdagen), tot 2 uur klein werk per maand.
 - **Livegang-inrichting gratis, mits het beheerplan ingaat** (koppelmoment).
 - Staffel: tot 15 gebruikers inbegrepen; 16-30 +€150; 31+ +€300.
+- **Jaaroptie: 12 maanden halen, 10 betalen = €3.490 vooruit** (korting alleen op basisbedrag; staffeltoeslag maandelijks apart; verlenging tegen dan geldend tarief; niet restitueerbaar, loopt bij verkoop door bij de koper).
 - Upgrade-pad (later gesprek, niet nu): Groei €549/mnd met vaste ontwikkeldag.
 
 ## Waarom dit plan
