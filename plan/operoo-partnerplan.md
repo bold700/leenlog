@@ -1,7 +1,15 @@
 # Operoo Partnerplan — voorstel voor Wesley
 
-> Bold700 · concept 28 augustus 2026 · te presenteren in gesprek, daarna nasturen
-> Invullen vóór gebruik: [HUIDIG MAANDBEDRAG] en [AANTAL GEBRUIKERS NU] — staffelgrens moet ruim boven het huidige aantal gebruikers liggen.
+> Bold700 · v2, 28 augustus 2026 · gekozen: beheer start bij livegang op €349/mnd
+> Nog checken: [AANTAL GEBRUIKERS NU] — staffelgrens moet ruim boven het huidige aantal liggen.
+
+## Besloten (28 aug)
+
+- Meerwerk-ronde (7-pagina-lijst): **€3.250 excl. btw vast**, 50% factuur direct, 50% bij oplevering; afwerkingspunten gratis. Als mededeling gecommuniceerd, niet als vraag.
+- **Vanaf livegang: €349/mnd beheer** — hosting (Vercel + EU-database, Bold700-accounts), security (updates, 2FA, toegangsbeheer), dagelijkse back-ups + wekelijks extern + kwartaal-hersteltest, monitoring, support (2 werkdagen), tot 2 uur klein werk per maand.
+- **Livegang-inrichting gratis, mits het beheerplan ingaat** (koppelmoment).
+- Staffel: tot 15 gebruikers inbegrepen; 16-30 +€150; 31+ +€300.
+- Upgrade-pad (later gesprek, niet nu): Groei €549/mnd met vaste ontwikkeldag.
 
 ## Waarom dit plan
 
