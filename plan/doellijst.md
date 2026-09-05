@@ -47,7 +47,7 @@ Prioriteitsvolgorde voor een start per 1 oktober:
 | 3 | Yacht (Randstad) | Interim professionals | Winnaar rijksoverheid ICT-inhuur; route naar ministeries incl. Defensie | yacht.nl | Inschrijven, categorie IT/design |
 | 4 | YER | Interim/detachering, HQ Utrecht | Utrecht HQ; senior digital/IT interim, ook overheid | yer.nl | Inschrijven + bel Utrecht-vestiging |
 | 5 | Harvey Nash NL | IT-recruitment (kantoor Maarssen!) | Freelance IT/digital contracting, ook publieke sector; let op: veel klussen "alleen detachering" | harveynash.nl | Cv insturen; vraag naar UX/frontend desk |
-| 6 | Sparkling People | Digital/design bemiddeling | Bemiddelt freelance digital talent bij bureaus en merken | sparklingpeople.nl | Inschrijven; beschikbaar per 1 okt melden |
+| 6 | ~~Sparkling People~~ | ⚠️ Geschrapt (5 sep): eigen site toont alleen sales/marketing/office/logistiek-recruiters, geen design-desk | — | sparklingpeople.nl | Niet benaderen; Salt Recruitment (#11) is de niche-vervanger |
 | 7 | Between (HeadFirst Group) | Freelance intermediair | Groot volume digital/IT corporates + overheid | between.nl | Profiel aanmaken (koppelt naar Striive) |
 | 8 | DPA Professionals | Detachering | Breed netwerk, ook digital; zzp-constructies | dpa.nl | Inschrijven |
 | 9 | Michael Page Interim | Recruitment/interim | Digital & design interim desk NL | michaelpage.nl | Cv + alert "interim UX/product design" |

@@ -12,7 +12,8 @@ Afzender: kenny.timmer@bold700.com. Cv v6 meesturen als bijlage bij de recruiter
 
 ### 1. UX People — niche UX-detachering (hoogste match)
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: 010 891 1051 · info@ux-people.nl · Maashaven Zuidzijde 2, Rotterdam
+- Richt de mail aan: **Enitia Karijodinomo** (Matchmaker, Interim UX Professionals). Bel-alternatief: **Thomas van Middelkoop** (Interim UX Projects) rechtstreeks op **06 15 06 56 00**
 - Belopener: "Ik zag dat jullie puur op UX zitten, daarom bel ik jullie als eerste."
 
 **Onderwerp: Senior UX'er, rijksoverheid-track, beschikbaar per 1 oktober**
@@ -31,7 +32,8 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 ### 2. Aquent Netherlands — creative/digital staffing (A'dam)
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: 020 577 1111 · info@aquent.nl · registreren via aquent.nl/find-work (MyAquent-portal)
+- Richt de mail aan: **Sofia Smina** of **Jess Linning** (Talent Agents NL-team)
 - Belopener: "Ik heb me net geregistreerd en wil even een gezicht bij mijn profiel geven."
 
 **Onderwerp: Freelance senior UX designer, per 1 oktober (Utrecht)**
@@ -48,10 +50,10 @@ Groet,
 Kenny Timmer, Bold700
 kenny.timmer@bold700.com · 06 14 80 28 02
 
-### 3. YER — interim/detachering, hoofdkantoor Utrecht
+### 3. YER — interim/detachering (landelijk, hoofdvestiging A'dam)
 
-- Contact: [TEL] · [MAIL/ROUTE]
-- Belopener: "Jullie zitten in Utrecht, ik ook. Ik zoek de consultant die digital/design doet."
+- Contact: 088 937 11 00 · info@yer.nl · NB: geen Utrecht-vestiging (doellijst was verouderd); Hogehilweg 16, Amsterdam
+- Belopener: "Ik bel om te vragen welke consultant bij jullie de digital/design-aanvragen doet, dan mail ik mijn cv gericht."
 
 **Onderwerp: Senior UX designer (rijksoverheid-ervaring), beschikbaar per 1 oktober**
 
@@ -69,7 +71,7 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 ### 4. Harvey Nash NL — IT-recruitment, kantoor Maarssen
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: 0346 58 10 70 · geen mailadres op de site: cv indienen via contactformulier op harveynash.nl/contact · Industrieweg 4, Maarssen
 - Belopener: "Jullie zitten om de hoek in Maarssen; ik ben UX'er met een rijksoverheid-track en bel over jullie UX/digital-aanvragen."
 
 **Onderwerp: Freelance senior UX designer, VGB-gescreend, per 1 oktober**
@@ -86,20 +88,21 @@ Groet,
 Kenny Timmer, Bold700
 kenny.timmer@bold700.com · 06 14 80 28 02
 
-### 5. Sparkling People — digital/design bemiddeling
+### 5. Salt Recruitment — digital recruitment niche (A'dam)
 
-- Contact: [TEL] · [MAIL/ROUTE]
-- Belopener: "Ik ben senior UX'er die ook bouwt; ik ben benieuwd bij welke bureaus of merken jullie nu vraag zien."
+- Contact: 020 369 4080 · cv indienen via welovesalt.com/submit-your-cv · Weteringschans 165, Amsterdam
+- NB: **Sparkling People geschrapt** uit deze batch: volgens hun eigen site doen ze sales, office en logistiek, geen design-desk. Salt is de digital/creative niche-vervanger.
+- Belopener: "Ik heb net mijn cv ingestuurd via jullie site en check even welke consultant digital design doet."
 
 **Onderwerp: Senior UX'er die ook bouwt, beschikbaar per 1 oktober**
 
 Beste [naam],
 
-Ik ben Kenny Timmer, senior UX designer met 13+ jaar ervaring (o.a. Ministerie van Defensie, FrieslandCampina, AMP Groep). Per 1 oktober heb ik ruimte voor een nieuwe opdracht.
+Ik ben Kenny Timmer, senior UX designer met 13+ jaar ervaring (o.a. Ministerie van Defensie, FrieslandCampina, AMP Groep). Per 1 oktober heb ik ruimte voor een nieuwe freelance opdracht.
 
-Waar bureaus en merken mij voor inzetten: design systems en design tokens opzetten of opschonen, complexe producten helder maken, en van Figma direct naar werkende Next.js-frontend met AI-tooling (Claude Code, Cursor, v0). Geen handoff, gewoon werkend product.
+Waar opdrachtgevers mij voor inzetten: design systems en design tokens opzetten of opschonen, complexe producten helder maken, en van Figma direct naar werkende Next.js-frontend met AI-tooling (Claude Code, Cursor, v0). Geen handoff, gewoon werkend product.
 
-Cv in de bijlage. Zien jullie bij jullie opdrachtgevers vraag waar dit past? Kwartiertje bellen kan ook, ik zit in Utrecht.
+Cv heb ik via jullie site ingestuurd. Welke consultant doet bij jullie de digital design-rollen? Dan schakel ik graag kort.
 
 Groet,
 Kenny Timmer, Bold700
@@ -111,7 +114,8 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 ### 6. CLEVER°FRANKE — data design, Utrecht
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: 030 785 19 26 · **julia@cleverfranke.com** (Julia Hendriks, jobs) · Catharijnekade 11, Utrecht. New business: Fons Hofhuis, fons@cleverfranke.com, 06 13 27 04 45
+- Richt de mail aan: **Julia**
 - Belopener: "Jullie maken datavisualisatie-werk waar ik al jaren naar kijk; ik doe hetzelfde soort werk binnen Defensie."
 
 **Onderwerp: Senior UX'er voor data-intensief werk, per 1 oktober (woont in Utrecht)**
@@ -130,7 +134,7 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 ### 7. Valtech NL — kantoor Utrecht, enterprise
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: geen telefoonnummer of mailadres op de site; route = contactformulier (valtech.com/nl-nl, "keep in touch") of vacaturepagina. MD Nederland: Gijs Vlaander (sinds mrt 2026); via LinkedIn benaderen is hier waarschijnlijk effectiever dan het formulier
 - Belopener: "Ik bel over jullie freelance-schil: senior UX, enterprise-ervaring, Utrecht."
 
 **Onderwerp: Freelance senior UX'er (enterprise/overheid), per 1 oktober, Utrecht**
@@ -149,7 +153,8 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 ### 8. iO — campus Utrecht
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: Campus Utrecht direct 088 201 31 30 (algemeen NL 088 201 31 01) · info@iodigital.com · Boven Clarenburg 2, Utrecht (hartje centrum) · vacatures: iodigital.com/en/careers/jobs
+- Managing Director Campus Utrecht: Michel van Velde (check LinkedIn, mogelijk recent gewisseld)
 - Belopener: "Ik ben senior UX'er die ook frontend bouwt; volgens mij is dat exact het blended profiel van jullie campus."
 
 **Onderwerp: UX'er die ook bouwt (Next.js/design systems), per 1 oktober, Utrecht**
@@ -164,9 +169,10 @@ Groet,
 Kenny Timmer, Bold700
 kenny.timmer@bold700.com · 06 14 80 28 02
 
-### 9. Q42 — engineering + design, overheid
+### 9. Q42 — engineering + design, overheid (A'dam/R'dam, niet meer Den Haag)
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: 070 445 23 42 (algemeen) · werken-bij-contact is **Maurice Haak: maurice@q42.nl, 06 46 46 53 70** ("mail of bel Maurice even" staat letterlijk op werkenbij.q42.nl)
+- Richt de mail aan: **Maurice**
 - Belopener: "Jullie bouwen voor overheid en cultuur; ik kom uit vier jaar rijksoverheid en bouw zelf met AI-tooling."
 
 **Onderwerp: UX'er die ook bouwt, rijksoverheid-track, per 1 oktober**
@@ -181,9 +187,9 @@ Groet,
 Kenny Timmer, Bold700
 kenny.timmer@bold700.com · 06 14 80 28 02
 
-### 10. Fabrique — strategic digital design, publieke sector
+### 10. Fabrique — strategic digital design, publieke sector (A'dam/R'dam)
 
-- Contact: [TEL] · [MAIL/ROUTE]
+- Contact: 020 531 71 00 (A'dam) · **recruitment@fabrique.nl** · open sollicitatie: werkenbij.fabrique.nl/open-application/nl · Design Director: Jari Versteegen (LinkedIn)
 - Belopener: "Jullie publieke-sector-portfolio sluit naadloos aan op mijn rijksoverheid-cv, daarom bel ik."
 
 **Onderwerp: Senior UX'er met rijksoverheid-cv, beschikbaar per 1 oktober**
@@ -210,11 +216,11 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 | 2 | Aquent | | | | | |
 | 3 | YER | | | | | |
 | 4 | Harvey Nash | | | | | |
-| 5 | Sparkling People | | | | | |
+| 5 | Salt Recruitment | | | | | |
 | 6 | CLEVER°FRANKE | | | | | |
 | 7 | Valtech Utrecht | | | | | |
 | 8 | iO campus Utrecht | | | | | |
 | 9 | Q42 | | | | | |
 | 10 | Fabrique | | | | | |
 
-Volgende batch (op afroep, "volgende batch"): Dept, Accenture Song, Hike One, Grrr, Info.nl + recruiters Between, DPA, Michael Page, Hays, Salt.
+Volgende batch (op afroep, "volgende batch"): Dept, Accenture Song, Hike One, Grrr, Info.nl + recruiters Between, DPA, Michael Page, Hays, Momkai. (Salt zit al in batch 1; Sparkling People geschrapt.)
