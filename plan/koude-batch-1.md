@@ -210,17 +210,17 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 ## Tracking
 
-| # | Target | Mail verstuurd | Gebeld | Reactie | Follow-up dag 5 | Follow-up dag 12 |
+| # | Target | Mail verstuurd | Gebeld | Reactie | Follow-up dag 5 (wo 10 sep) | Follow-up dag 12 (do 17 sep) |
 |---|---|---|---|---|---|---|
-| 1 | UX People | | | | | |
-| 2 | Aquent | | | | | |
-| 3 | YER | | | | | |
-| 4 | Harvey Nash | | | | | |
-| 5 | Salt Recruitment | | | | | |
-| 6 | CLEVER°FRANKE | | | | | |
-| 7 | Valtech Utrecht | | | | | |
-| 8 | iO campus Utrecht | | | | | |
-| 9 | Q42 | | | | | |
-| 10 | Fabrique | | | | | |
+| 1 | UX People | ✅ vr 5 sep, met cv v6 | | | | |
+| 2 | Aquent | ✅ vr 5 sep, met cv v6 | | | | |
+| 3 | YER | ✅ vr 5 sep, met cv v6 | | | | |
+| 4 | Harvey Nash | ⏳ via formulier — check of gedaan | | | | |
+| 5 | Salt Recruitment | ⏳ via submit-your-cv — check of gedaan | | | | |
+| 6 | CLEVER°FRANKE | ✅ vr 5 sep (Julia, bewust zonder bijlage) | | | | |
+| 7 | Valtech Utrecht | ⏳ via LinkedIn naar Gijs Vlaander — check of gedaan | | | | |
+| 8 | iO campus Utrecht | ⏳ via careers-pagina — check of gedaan | | | | |
+| 9 | Q42 | ✅ vr 5 sep, met cv v6 (per abuis 2x aan Maurice) | | | | |
+| 10 | Fabrique | ✅ vr 5 sep, met cv v6 | | | | |
 
 Volgende batch (op afroep, "volgende batch"): Dept, Accenture Song, Hike One, Grrr, Info.nl + recruiters Between, DPA, Michael Page, Hays, Momkai. (Salt zit al in batch 1; Sparkling People geschrapt.)
