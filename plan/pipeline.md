@@ -11,6 +11,9 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 | 36 (31 aug–6 sep) | | | | | Target: follow-ups, 10 warme gesprekken gevoerd, 10+ reacties, workshop-pitches. **Vr 4 sep: GO/NO-GO** |
 | 37 (7–13 sep) | | | | | **NO-GO uitgesproken door Kenny (di 9 sep): "geen opdrachten meer in het vooruitzicht".** Feitelijk wél levend: Politie-voorstel (6 sep) + Caesar drie sporen + Operoo-omzet. Maar: niets getekend, 3 weken tot 1 okt. **Koerswijziging: weg van bureaus (2x Eidra-afwijzing bewijst lage opbrengst), volle inzet op brokers/DAS waar VGB + 4 jaar rijksoverheid telt. Registraties Striive/Circle8/LINKIT/Yacht staan nog open sinds week 34 en zijn nu prioriteit 1.** ❌ 7 sep: **Politie afgewezen na voorstel** |
 
+| 38 (14–20 sep) | | | | | Contract vóór 25 sep, anders draaiboek B |
+| 39 (21–27 sep) | | | | | Overdracht + testimonial huidige klant |
+
 ## Patroonanalyse 9 sep — waarom het niet landt
 
 Na 3,5 week campagne (start 17 aug), op basis van alles in deze tracker:
@@ -20,8 +23,6 @@ Na 3,5 week campagne (start 17 aug), op basis van alles in deze tracker:
 3. **Wat wél werkt: de brokerroute naar de overheid.** RWS via Greenpepper kwam tot een intake met drie mensen. Politie via MiPublic kwam tot voorgesteld mét tarief. Dat zijn de enige twee keren dat Kenny echt aan tafel kwam. Allebei via een broker/DAS, allebei op het rijksoverheid-profiel met VGB.
 4. **Juist dat kanaal staat nog grotendeels uit.** Striive, Circle8, LINKIT en Yacht zijn na 3,5 week nog steeds niet geregistreerd. Dat is de grootste correctie die er te maken valt.
 5. **Warme leads lekken weg terwijl er koud gemaild wordt.** Freep vroeg om toelichting en kreeg geen antwoord (lead verlopen 4 sep). De InMail van Fenna staat sinds 2 sep open. Reageren op wat binnenkomt is goedkoper dan nieuw koud werven.
-| 38 (14–20 sep) | | | | | Contract vóór 25 sep, anders draaiboek B |
-| 39 (21–27 sep) | | | | | Overdracht + testimonial huidige klant |
 
 ## Context (18 aug)
 
