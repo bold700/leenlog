@@ -10,7 +10,6 @@ Elke vrijdag 15 min bijwerken. Twee weken achter op target = actie verzwaren, ni
 | 35 (24–30 aug) | | | | | Target: registraties af, warme contacten → 40, 15 koude mails, 5 opdracht-reacties, portfolio af |
 | 36 (31 aug–6 sep) | | | | | Target: follow-ups, 10 warme gesprekken gevoerd, 10+ reacties, workshop-pitches. **Vr 4 sep: GO/NO-GO** |
 | 37 (7–13 sep) | | | | | **NO-GO uitgesproken door Kenny (di 9 sep): "geen opdrachten meer in het vooruitzicht".** Feitelijk wél levend: Politie-voorstel (6 sep) + Caesar drie sporen + Operoo-omzet. Maar: niets getekend, 3 weken tot 1 okt. **Koerswijziging: weg van bureaus (2x Eidra-afwijzing bewijst lage opbrengst), volle inzet op brokers/DAS waar VGB + 4 jaar rijksoverheid telt. Registraties Striive/Circle8/LINKIT/Yacht staan nog open sinds week 34 en zijn nu prioriteit 1.** ❌ 7 sep: **Politie afgewezen na voorstel** |
-
 | 38 (14–20 sep) | | | | | Contract vóór 25 sep, anders draaiboek B |
 | 39 (21–27 sep) | | | | | Overdracht + testimonial huidige klant |
 
