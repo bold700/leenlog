@@ -212,12 +212,12 @@ kenny.timmer@bold700.com · 06 14 80 28 02
 
 | # | Target | Mail verstuurd | Gebeld | Reactie | Follow-up dag 5 (wo 10 sep) | Follow-up dag 12 (do 17 sep) |
 |---|---|---|---|---|---|---|
-| 1 | UX People | ✅ vr 5 sep, met cv v6 | | | | |
-| 2 | Aquent | ✅ vr 5 sep, met cv v6 | | | | |
+| 1 | UX People | ✅ vr 5 sep, met cv v6 | | geen reactie na 5 dagen | ✅ concept klaar 10 sep | |
+| 2 | Aquent | ✅ vr 5 sep, met cv v6 | | geen reactie na 5 dagen | ✅ concept klaar 10 sep | |
 | 3 | YER | ✅ vr 5 sep, met cv v6 | | ma 7 sep: cv in systeem geüpload, AVG-formulier volgt; reply-concept klaar (LinkedIn-URL meesturen) | | |
 | 4 | Harvey Nash | ⏳ via formulier — check of gedaan | | | | |
 | 5 | Salt Recruitment | ⏳ via submit-your-cv — check of gedaan | | | | |
-| 6 | CLEVER°FRANKE | ✅ vr 5 sep (Julia, bewust zonder bijlage) | | | | |
+| 6 | CLEVER°FRANKE | ✅ vr 5 sep (Julia, bewust zonder bijlage) | | geen reactie na 5 dagen | ✅ concept klaar 10 sep | |
 | 7 | Valtech Utrecht | ⏳ via LinkedIn naar Gijs Vlaander — check of gedaan | | | | |
 | 8 | iO campus Utrecht | ⏳ via careers-pagina — check of gedaan | | | | |
 | 9 | Q42 | ✅ vr 5 sep, met cv v6 (per abuis 2x aan Maurice) | | ❌ ma 7 sep (Maurice): design via zusterbedrijf Fabrique, zelden freelancers. Nette afsluiter klaar | — | — |
@@ -227,3 +227,7 @@ Extra (eigen initiatief Kenny, buiten batch): Hunkemöller recruitment ✗ — s
 NB: Q42 en Fabrique zijn beide Eidra; dat verklaart de dubbele afwijzing. Eidra-bureaus laag prioriteren in volgende batches.
 
 Volgende batch (op afroep, "volgende batch"): Dept, Accenture Song, Hike One, Grrr, Info.nl + recruiters Between, DPA, Michael Page, Hays, Momkai. (Salt zit al in batch 1; Sparkling People geschrapt.)
+
+## Tussenstand 10 sep (dag 5)
+
+6 verstuurd → 2 afwijzingen (Q42, Fabrique, beide Eidra), 1 administratieve ontvangst (YER), 3 keer stilte. Nul gesprekken. Samen met de rest van de campagne bevestigt dit de patroonanalyse in `pipeline.md`: dit kanaal levert weinig op. Follow-ups kosten één klik, daarna niet verder achteraan zitten.
